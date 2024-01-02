@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The Machine Learning Road Map
 
 There are many high-quality machine learning resources on the internet, but the field is complex and growing so quickly it requires a resource just to navigate those resources. That's what this guide is mean to be.
