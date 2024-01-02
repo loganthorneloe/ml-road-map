@@ -1,4 +1,4 @@
-# A Roadmap to Learning Machine Learning
+# The Machine Learning Road Map
 
 There are many high-quality machine learning resources on the internet, but the field is complex and growing so quickly it requires a resource just to navigate those resources. That's what this guide is mean to be.
 
@@ -8,7 +8,7 @@ I'll keep this updated as machine learning evolves and new resources emerge. I'l
 
 This guide is free and will always be free. You can support it (for free) by:
 * [Following me on X](https://twitter.com/loganthorneloe) so I can share this info with more people
-* Star this repo and share this roadmap on your socials
+* Star this repo and share this road map on your socials
 * Join my machine learning network: [Society's Backend](https://societysbackend.com)
 ## Getting Started
 Things to Know Before You Begin:
@@ -96,8 +96,8 @@ A list of important machine learning topics. **More on this coming soon** includ
 * Retrieval-Augmented Generation (RAG)
 * Low-Rank Adaptation of Large Language Models (LORA)
 * Mixture of Experts (MoE)
-## Support this roadmap
-This roadmap will always be free and will always focus on free resources. Support it by:
+## Support this road map
+This road map will always be free and will always focus on free resources. Support it by:
 * [Following me on X](https://twitter.com/loganthorneloe)
 * Star this repo and share this roadmap on your socials
 * Join my machine learning network: [Society's Backend](https://societysbackend.com)
