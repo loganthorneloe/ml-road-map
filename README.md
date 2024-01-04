@@ -1,6 +1,6 @@
 # The Machine Learning Road Map
 
-There are many high-quality machine learning resources on the internet, but the field is complex and growing so quickly it requires a resource just to navigate those resources. That's what this guide is mean to be.
+There are many high-quality machine learning resources on the internet, but the field is complex and growing so quickly it requires a resource just to navigate those resources. That's what this guide is.
 
 I'm going through many machine learning resources to create the best technical guide to machine learning for anyone wanting to learn. I'll clarify these resources based on the topics they cover, the prerequisites they require, the time investment, and their overall quality to create the best step-by-step guide to machine learning.
 
@@ -20,6 +20,8 @@ Things to Know Before You Begin:
 ## Technical Prerequisites
 ### Python (required)
 You will need a base knowledge of Python. Model training, data preprocessing, and most machine learning libraries use Python. The best starter course for Python (and programming in general): https://cs50.harvard.edu/python/2022/.
+
+Other alternatives are [Google's Python Class](https://developers.google.com/edu/python) and [Kaggle's Python Course](https://www.kaggle.com/learn/python).
 ### Git and GitHub (strongly recommended)
 Anytime you're working with code you should know how to use version control. Version control is used to manage, save, maintain, and collaborate on code while tracking changes to the code over time. GitHub (this website) is one of the most popular platforms for doing this using a version control technology called Git. It's 100% free and a must for anyone building software.
 
@@ -32,6 +34,7 @@ These are the best technical resources I've found for learning about machine lea
 ### [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
 ### [Kaggle: Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 ### [Fast.AI Deep Learning Course](https://course.fast.ai/)
+### [MIT Into to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about)
 ### [MIT Intro to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 ### [DeepMind x UCL Deep Learning Lectures](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
 ### [Computer Vision w/Andrej Karpathy and Stanford](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
@@ -42,6 +45,12 @@ These are the best technical resources I've found for learning about machine lea
 ### [Building GPT from Scratch (understanding LLMs w/Andrej Karpathy)](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 ### [How LLMs work by Jeremy Howard](https://x.com/jeremyphoward/status/1707188542768865725?s=20)
 ### [Stanford's NLP w/Deep Learning Course](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
+### [Huggingface's Learn](https://huggingface.co/learn)
+### [Andrej Karpathy's Intro to LLMs](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+### [Maxime Labonne's LLM Road Map](https://github.com/mlabonne/llm-course)
+### [Microsoft's AI for Beginners](https://microsoft.github.io/AI-For-Beginners/)
+### [Microsoft's ML for Beginners](https://microsoft.github.io/ML-For-Beginners/#/)
+### [Microsoft's Deep Learning for Beginners](https://microsoft.github.io/Data-Science-For-Beginners/#/)
 
 ## Learn From Others
 Machine learning is a quickly evolving field. These are the resources I use to stay updated on developments and products.
@@ -82,6 +91,13 @@ An overview of machine learning tools and how they're useful. **More on this com
 * Tensorflow
 * Keras
 * Google Colab
+* [Giskard](https://www.giskard.ai/): a testing framework for ML models
+* Google AI Studio
+* [MergeKit](https://github.com/cg123/mergekit)
+* [HuggingFace Tasks](https://huggingface.co/tasks)
+### Books to Learn From
+* [Model-Based Machine Learning](https://mbmlbook.com/toc.html)
+* [Dive into Deep Learning](https://d2l.ai/)
 ### Topics to Understand (WIP)
 A list of important machine learning topics. **More on this coming soon** including definitions and links to learn more.
 * Reinforcement Learning
@@ -103,3 +119,5 @@ This road map will always be free and will always focus on free resources. Suppo
 * Join my machine learning network: [Society's Backend](https://societysbackend.com)
 
 _Last Updated January 2024_
+
+In order to comply with X Shopping's terms of service, this road map is also available in paperback. It'll cost as I'll have to send a print out of it to you. You can contact me for this on [X](https://x.com/loganthorneloe).
