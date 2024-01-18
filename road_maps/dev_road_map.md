@@ -39,7 +39,7 @@ This is where you should follow the [Machine Learning Engineering Road Map](mle_
 
 If you really like this and want to learn more about ML math, you can check of the [Modeling Road Map](modeling_road_map.md). It'll run through [CS299](../CS229/cs229.md) taught by [Andrew Ng](https://www.andrewng.org/), a very well-respected name in the field of machine learning.
 
-You can also check out the [topics](../topics.md), [tools](../tools.md), and [resources](../resources.md) guides for further information on machine learning. All three are a WIP with more info coming soon.
+You can also check out the [tools](../tools.md) and [resources](../resources.md) guides for further information on machine learning. All three are a WIP with more info coming soon.
 
 ## Support this guide
 

@@ -102,7 +102,7 @@ The next step is to gain a greater understanding of machine learning to understa
 
 After completing this course, you should feel comfortable building ML systems. If you're interested in understanding and training models, I suggest running through [CS229](CS299/cs299.md) for a deeper understanding of machine learning math.
 
-At this point, it's best to start building machine learning applications. As you build, you'll run into topics you don't understand. You can use our [topics guide](topics.md)(WIP) to learn the topics you need to solve the problems you face. You can also check out our [tools](tools.md)(WIP) guide to understand the tools available to help you build applications with machine learning.
+At this point, it's best to start building machine learning applications. As you build, you'll run into topics you don't understand. You can use the [extra resources](resources.md)(WIP) section to learn the topics you need to solve the problems you face. You can also check out our [tools](tools.md)(WIP) guide to understand the tools available to help you build applications with machine learning.
 
 ## Support this guide
 
