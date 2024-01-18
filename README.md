@@ -43,7 +43,7 @@ Another great resources are newsletters. Here are high-quality newsletters that 
 
 ## Support this guide
 
-Don't forget star this repo and [following me on X](https://x.com/loganthorneloe) to support this guide.
+Don't forget to star this repo and [following me on X](https://x.com/loganthorneloe) to support this guide.
 
 _Last Updated January 2024_
 

@@ -46,3 +46,7 @@ These are extra learning resources split by topic.
 ### More General Resources
 * [Huggingface's Learning Resources](https://huggingface.co/learn)
 * [Kaggle's Learning Resources](https://www.kaggle.com/learn)
+
+## Support this guide
+
+Don't forget to star this repo and [following me on X](https://x.com/loganthorneloe) to support this guide.

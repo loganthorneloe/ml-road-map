@@ -43,4 +43,4 @@ You can also check out the [tools](../tools.md) and [resources](../resources.md)
 
 ## Support this guide
 
-Don't forget star this repo and [following me on X](https://x.com/loganthorneloe) to support this guide.
+Don't forget to star this repo and [following me on X](https://x.com/loganthorneloe) to support this guide.
