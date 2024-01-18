@@ -5,6 +5,10 @@
 
 ### Overview
 
+* Efficiently Applying Models
+* Debugging Models
+* Error Analysis
+
 ### Timestamps
   
 [0:28](https://youtu.be/ORrStCArmP4?si=tuNXtFTiY5NRKgVA&t=28): 🎃 The video discusses principles for efficiently applying machine learning algorithms to solve various application problems.  

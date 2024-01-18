@@ -3,7 +3,10 @@
 
 [![Lecture 10 - Decision Trees and Ensemble Methods | Stanford CS229: Machine Learning (Autumn 2018)](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dwr9gUr-eWdA%26list%3DPLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU%26index%3D10)](https://www.youtube.com/watch?v=wr9gUr-eWdA&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=10)
 
-### Overview
+### Topics
+
+* Decision Trees
+* Ensemble Methods
 
 ### Timestamps
   

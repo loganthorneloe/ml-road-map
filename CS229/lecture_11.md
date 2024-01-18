@@ -3,7 +3,11 @@
 
 [![Lecture 11 - Introduction to Neural Networks | Stanford CS229: Machine Learning (Autumn 2018)](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMfIjxPh6Pys%26list%3DPLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU%26index%3D11)](https://www.youtube.com/watch?v=MfIjxPh6Pys&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=11)
 
-### Overview
+### Topics
+
+* Improving Neural Networks
+* Parametric and Non-Parametric Learning
+* Neural Networks
 
 ### Timestamps
   

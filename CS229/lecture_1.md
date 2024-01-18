@@ -3,7 +3,12 @@
 
 [![Stanford CS229: Machine Learning Course, Lecture 1 - Andrew Ng (Autumn 2018)](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjGwO_UgTS7I%26list%3DPLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
-### Overview
+### Topics
+
+* What is Machine Learning?
+* Supervised Learning
+* Unsupervised Learning
+* Reinforcement Learning
 
 ### Timestamps
 

@@ -3,7 +3,12 @@
 
 [![Locally Weighted & Logistic Regression | Stanford CS229: Machine Learning - Lecture 3 (Autumn 2018)](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dhet9HFqo1TQ%26list%3DPLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU%26index%3D3)](https://www.youtube.com/watch?v=het9HFqo1TQ&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=3)
 
-### Overview
+### Topics
+
+* Locally Weighted Regression
+* Logistic Regression
+* Gaussian Density
+* Maximum Likelihood Estimation
 
 ### Timestamps
 

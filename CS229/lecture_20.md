@@ -5,6 +5,9 @@
 
 ### Overview
 
+* Debugging Reinforcement Learning
+* Applications of Reinforcement Learning
+
 ### Timestamps
     
 [5:35](https://youtu.be/pLhPQynL0tY?si=bUJGJLarb7JU6gF3&t=335): 🤖 Decision Making in Reinforcement Learning  

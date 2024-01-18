@@ -1,9 +1,13 @@
 [<< Lecture 18](lecture_18.md) • [Lecture 20 >>](lecture_20.md)
-## Lecture 19 - Reward Model & Linear Dynamical System
+## Lecture 19 - Reward Model and Linear Dynamical System
 
 [![Lecture 19 - Reward Model & Linear Dynamical System | Stanford CS229: Machine Learning (Autumn 2018)](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0rt2CsEQv6U%26list%3DPLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU%26index%3D19)](https://www.youtube.com/watch?v=0rt2CsEQv6U&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=19)
 
 ### Overview
+
+* State-Action Rewards
+* Finite Horizon Markov Decision Processes
+* Linear Dynamic Systems
 
 ### Timestamps
   

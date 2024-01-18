@@ -5,6 +5,10 @@
 
 ### Overview
 
+* Representor Theorem
+* Kernels
+* Applications of Support Vector Machines
+
 ### Timestamps
   
 [0:13](https://youtu.be/8NYoQiRANpg?si=81OzZwLUwgsyMaBL&t=13): 📚 The Support Vector Machine Algorithm is a turnkey solution for classification problems and can work in high-dimensional feature spaces.  

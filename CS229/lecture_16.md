@@ -1,9 +1,13 @@
 [<< Lecture 15](lecture_15.md) • [Lecture 17 >>](lecture_17.md)
-## Lecture 16 - Independent Component Analysis & RL
+## Lecture 16 - Independent Component Analysis and Reinforcement Learning
 
 [![Lecture 16 - Independent Component Analysis & RL | Stanford CS229: Machine Learning (Autumn 2018)](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DYQA9lLdLig8%26list%3DPLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU%26index%3D16)](https://www.youtube.com/watch?v=YQA9lLdLig8&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=16)
 
 ### Overview
+
+* Independent Component Analysis
+* Reinforcement Learning
+* Applications of Reinforcement Learning
 
 ### Timestamps
   

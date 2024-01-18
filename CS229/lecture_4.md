@@ -3,7 +3,13 @@
 
 [![Lecture 4 - Perceptron & Generalized Linear Model | Stanford CS229: Machine Learning (Autumn 2018)](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DiZTeva0WSTQ%26list%3DPLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU%26index%3D4)](https://www.youtube.com/watch?v=iZTeva0WSTQ&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=4)
 
-### Overview
+### Topics
+
+* Perceptrons
+* Exponential Families
+* Generalized Linear Models (GLMs)
+* Softmax Regression
+* Cross-Entropy Loss Function
 
 ### Timestamps
   

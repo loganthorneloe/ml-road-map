@@ -1,9 +1,12 @@
 [<< Lecture 14](lecture_14.md) • [Lecture 16 >>](lecture_16.md)
-## Lecture 15 - EM Algorithm & Factor Analysis
+## Lecture 15 - EM Algorithm and Factor Analysis
 
 [![Lecture 15 - EM Algorithm & Factor Analysis | Stanford CS229: Machine Learning Andrew Ng -Autumn2018](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dtw6cmL5STuY%26list%3DPLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU%26index%3D15)](https://www.youtube.com/watch?v=tw6cmL5STuY&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=15)
 
 ### Overview
+
+* EM Algorithm
+* Factor Analysis
 
 ### Timestamps
   

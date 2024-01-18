@@ -3,7 +3,13 @@
 
 [![Lecture 6 - Support Vector Machines | Stanford CS229: Machine Learning Andrew Ng (Autumn 2018)](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DlDwow4aOrtg%26list%3DPLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU%26index%3D6)](https://www.youtube.com/watch?v=lDwow4aOrtg&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=6)
 
-### Overview
+### Topics
+
+* Naive Bayes and Generative Learning Algorithms
+* Spam Classification
+* Decision Boundaries and Margins
+* Geometric Margin
+* Optimization for Support Vector Machines
 
 ### Timestamps
   

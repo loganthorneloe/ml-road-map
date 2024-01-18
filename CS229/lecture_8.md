@@ -3,7 +3,12 @@
 
 [![Lecture 8 - Data Splits, Models & Cross-Validation | Stanford CS229: Machine Learning (Autumn 2018)](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DrjbkWSTjHzM%26list%3DPLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU%26index%3D8)](https://www.youtube.com/watch?v=rjbkWSTjHzM&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=8)
 
-### Overview
+### Topics
+
+* Bias and Variance
+* Model Selection and Cross-Validation
+* Feature Selection
+* Regularization
 
 ### Timestamps
   

@@ -3,7 +3,14 @@
 
 [![Stanford CS229: Machine Learning - Linear Regression and Gradient Descent | Lecture 2 (Autumn 2018)](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4b4MUYve_U8%26list%3DPLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)](https://www.youtube.com/watch?v=4b4MUYve_U8&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
-### Overview
+### Topics
+
+* Linear Regression
+* Supervised Learning
+* Normal Equations
+* Hypotheses
+* Features
+* Cost Functions
 
 ### Timestamps
 

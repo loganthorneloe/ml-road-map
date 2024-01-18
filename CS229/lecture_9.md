@@ -1,9 +1,15 @@
 [<< Lecture 8](lecture_8.md) • [Lecture 10 >>](lecture_10.md)
-## Lecture 9 - Approx/Estimation Error & ERM
+## Lecture 9 - Approx/Estimation Error & Empirical Risk Minimization
 
 [![Lecture 9 - Approx/Estimation Error & ERM | Stanford CS229: Machine Learning (Autumn 2018)](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DiVOxMcumR4A%26list%3DPLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU%26index%3D9)](https://www.youtube.com/watch?v=iVOxMcumR4A&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=9)
 
-### Overview
+### Topics
+
+* Framing the Learning Problem
+* Bias-variance Tradeoff
+* Approximation Error and Estimation Error
+* Empirical Risk Minimization
+* Uniform Convergence
 
 ### Timestamps
   

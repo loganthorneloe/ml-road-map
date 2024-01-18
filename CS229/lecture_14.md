@@ -5,6 +5,12 @@
 
 ### Overview
 
+* Unsupervised Learning
+* Clustering
+* K-means Algorithm
+* Density Estimation
+* Jensen's Inequality
+
 ### Timestamps
   
 [0:14](https://youtu.be/rVfZHWTwXSA?si=3yjVlqfyWcmdTdSf&t=14): 📚 The video discusses the logistical details of the upcoming midterm and introduces the topic of unsupervised learning.  

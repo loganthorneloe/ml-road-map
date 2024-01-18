@@ -3,7 +3,14 @@
 
 [![Lecture 12 - Backprop & Improving Neural Networks | Stanford CS229: Machine Learning (Autumn 2018)](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DzUazLXZZA2U%26list%3DPLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU%26index%3D12)](https://www.youtube.com/watch?v=zUazLXZZA2U&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=12)
 
-### Overview
+### Topics
+
+* Backpropagation
+* Improving Neural Networks
+* Logistic Regression as a One-Neuron Neural Network
+* Activation Functions
+* Neural Networks with Multiple Layers
+* Forward Propagation
 
 ### Timestamps
   

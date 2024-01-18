@@ -1,9 +1,13 @@
 [<< Lecture 17](lecture_17.md) • [Lecture 19 >>](lecture_19.md)
-## Lecture 18 - Continous State MDP & Model Simulation
+## Lecture 18 - Continous State Markov Decision Processes and Model Simulation
 
 [![Lecture 18 - Continous State MDP & Model Simulation | Stanford CS229: Machine Learning (Autumn 2018)](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQFu5nuc-S0s%26list%3DPLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU%26index%3D18)](https://www.youtube.com/watch?v=QFu5nuc-S0s&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=18)
 
 ### Overview
+
+* Continuous State Markov Decision Processes
+* Modeling Continuous State Markov Decision Processes
+* Fitted Value Iteration
 
 ### Timestamps
   

@@ -1,9 +1,13 @@
 [<< Lecture 16](lecture_16.md) • [Lecture 18 >>](lecture_18.md)
-## Lecture 17 - MDPs & Value/Policy Iteration
+## Lecture 17 - Markov Decision Processes and Value/Policy Iteration
 
 [![Lecture 17 - MDPs & Value/Policy Iteration | Stanford CS229: Machine Learning Andrew Ng (Autumn2018)](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dd5gaWTo6kDM%26list%3DPLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU%26index%3D17)](https://www.youtube.com/watch?v=d5gaWTo6kDM&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&index=17)
 
 ### Overview
+
+* Markov Decision Processes
+* Policy Iteration
+* Value Iteration
 
 ### Timestamps
   
