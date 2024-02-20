@@ -40,11 +40,12 @@ Another great resources are newsletters. Here are high-quality newsletters that 
 * [AI Supremacy](https://aisupremacy.substack.com/)
 * [Society's Backend](https://societysbackend.com)
 * [The Batch](https://www.deeplearning.ai/the-batch/)
+* [Interconnects](https://www.interconnects.ai/)
 
 ## Support this guide
 
 Don't forget to star this repo and [following me on X](https://x.com/loganthorneloe) to support this guide.
 
-_Last Updated January 2024_
+_Last Updated February 2024_
 
-In order to comply with X Shopping's terms of service, this road map is also available in paperback. It'll cost as I'll have to send a print out of it to you. You can contact me for this on [X](https://x.com/loganthorneloe).
+In order to comply with X Shopping's terms of service, this road map is also available in paperback. It'll cost as I'll have to send a print out of it to you. You can [contact me for this on X](https://x.com/loganthorneloe).
