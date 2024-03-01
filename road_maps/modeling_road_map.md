@@ -50,7 +50,7 @@ If you've never touched Python before, I recommend [Harvard's Intro to Python](h
 
 If you have prior experience with it, I suggest [Google's Python Class](https://developers.google.com/edu/python) as a refresher. If you feel comfortable without a refresher, you can move on to the next section.
 
-If you really liked Python and want to learn more, check out our [Python Resources](../resources.md#python)
+If you really liked Python and want to learn more, check out our [Python Resources](../topics.md#python)
 
 ### Linear Algebra (required)
 
@@ -106,7 +106,7 @@ Coming soon
 
 ### Extra ML Topics
 
-Check out the [extra resources](../resources.md) section to browse resources for learning ML by topic.
+Check out the [extra resources](../topics.md) section to browse resources for learning ML by topic.
 
 ## Support this guide
 

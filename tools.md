@@ -1,4 +1,5 @@
-## Tools for Training (WIP)
+## Tools You Should be Familiar With
+
 An overview of machine learning tools and how they're useful. **More on this coming soon.**
 * HuggingFace
 * GitHub

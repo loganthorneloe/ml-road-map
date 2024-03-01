@@ -1,8 +1,10 @@
 # The Machine Learning Road Map
 
+![ml road map](assets/ml_roadmap_2.png)
+
 **This guide will take you from whatever your current machine learning knowledge is to whatever you want to learn about machine learning using high-quality, free resources**.
 
-There are many greate machine learning resources on the internet, but the field is complex and growing so quickly it requires a resource just to navigate those resources. This guide serves this purpose.
+There are many great machine learning resources on the internet, but the field is complex and growing so quickly it requires a resource just to navigate those resources. This guide serves this purpose.
 
 This guide will always be free. You can support it by starring this repo and [following me on X](https://twitter.com/loganthorneloe) so I can share it with more people.
 
@@ -11,7 +13,7 @@ Understand the following:
 * **Everyone needs an understanding of AI.** Even consumers will have to know how the technology they use affects their life. I'll include different road maps for the different levels of knowledge. I've written more in-depth about this [here](https://societysbackend.com/p/ai-isnt-an-option).
 * **Take your time.** Machine learning is a complex field that is growing quickly. Don't rush the learning process. It will always be a good time to learn about AI.
 * **Your greatest learning resource is people.** Very few people have a good grasp on all AI topics. The best way to learn about AI is from people who know about it and are sharing their knowledge. I've included [a list of people to follow and newsletters to subscribe to](#learn-from-others) for this purpose.
-* **AI is still being figured out.** Even the most well-known AI researchers are trying to understand how AI will affect humanity. Don't automatically assume something someone is saying is truth, learn from many different people, and check sources.
+* **AI is a work in progress.** Even the most well-known AI researchers are trying to understand how AI will affect humanity. Don't automatically assume something someone is saying is truth, learn from many different people, and check sources.
 
 ## Road Maps
 Here are the 5 different paths to learning about machine learning this road map covers. If you think there are other paths of learning that I've missed, let me know.
@@ -25,12 +27,8 @@ Here are the 5 different paths to learning about machine learning this road map 
 ## Learn From Others
 Machine learning is a quickly evolving field. These are the resources I use to stay updated on developments and products.
 
-### X/Twitter
-X is the best place for any sort of tech news, updates, and learning. I've curated [a list of people to follow to learn more about ML](https://twitter.com/i/lists/1738669706595258373?s=20) for you to use as a starting point. You can follow the list and pin it on your feed.
-
-I suggest following all the people within this list as well as this will curate your 'For You' and 'Following' feeds and other features such as 'Top Articles'.
-
-I've included people with differing viewpoints on AI because I think taking many opinions into account is the only way to learn.
+### X
+X is the best place for any sort of tech news, updates, and learning. I've curated [a list of people to follow to learn more about ML](https://twitter.com/i/lists/1738669706595258373?s=20) for you to use as a starting point. You can follow the list and pin it on your feed. I've included people with differing viewpoints on AI because I think taking many opinions into account is the proper way to learn.
 
 ### Newsletters
 Another great resources are newsletters. Here are high-quality newsletters that won't spam your inbox:
@@ -41,11 +39,22 @@ Another great resources are newsletters. Here are high-quality newsletters that 
 * [Society's Backend](https://societysbackend.com)
 * [The Batch](https://www.deeplearning.ai/the-batch/)
 * [Interconnects](https://www.interconnects.ai/)
+* [Deep (Learning) Focus](https://cameronrwolfe.substack.com/)
+
+### YouTube Channels
+Here are some of my favorite ML YouTube channels:  
+* [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
+* [Billyfx](https://www.youtube.com/@bilawal)
+* [Jay Alammar](https://www.youtube.com/@arp_ai)
+* [Mervin Praison](https://www.youtube.com/@MervinPraison)
+* [Nicholas Renotte](https://www.youtube.com/@NicholasRenotte)
+* [Jeremy Howard](https://www.youtube.com/@howardjeremyp)
+* [Logan Thorneloe](https://www.youtube.com/@loganthorneloe) (this is me - coming soon!)
+
+For a list of the available ML YouTube Courses (as oppoosed to channels), check out [this repo by Dair AI](https://github.com/dair-ai/ML-YouTube-Courses).
 
 ## Support this guide
 
 Don't forget to star this repo and [following me on X](https://x.com/loganthorneloe) to support this guide.
-
-_Last Updated February 2024_
 
 In order to comply with X Shopping's terms of service, this road map is also available in paperback. It'll cost as I'll have to send a print out of it to you. You can [contact me for this on X](https://x.com/loganthorneloe).
