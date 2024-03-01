@@ -30,6 +30,9 @@ Browsing ML learning resources by topic.
 ### Computer Vision
 * [Computer Vision w/Andrej Karpathy and Stanford](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
+### RAG
+* [Info on RAG Research](https://www.promptingguide.ai/research/rag#rag-research-insights)
+
 ### More on Reinforcement Learning
 * [DeepMind x UCL Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb)
 
