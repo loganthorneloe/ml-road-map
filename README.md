@@ -2,7 +2,7 @@
 
 ![ml road map](assets/ml_roadmap_2.png)
 
-**This guide will take you from whatever your current machine learning knowledge is to whatever you want to learn about machine learning using high-quality, free resources**.
+**This guide will take you from whatever your current machine learning knowledge is to a basic understanding of machine learning principles using high-quality, free resources**.
 
 There are many great machine learning resources on the internet, but the field is complex and growing so quickly it requires a resource just to navigate those resources. This guide serves this purpose.
 
