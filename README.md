@@ -51,7 +51,7 @@ Here are some of my favorite ML YouTube channels:
 * [Jeremy Howard](https://www.youtube.com/@howardjeremyp)
 * [Logan Thorneloe](https://www.youtube.com/@loganthorneloe) (this is me - coming soon!)
 
-For a list of the available ML YouTube Courses (as oppoosed to channels), check out [this repo by Dair AI](https://github.com/dair-ai/ML-YouTube-Courses).
+For a list of the available ML YouTube Courses check out [this repo by Dair AI](https://github.com/dair-ai/ML-YouTube-Courses).
 
 ## Support this guide
 
