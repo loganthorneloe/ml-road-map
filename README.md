@@ -12,7 +12,7 @@ This guide will always be free. You can support it by starring this repo and [fo
 Understand the following:
 * **Everyone needs an understanding of AI.** Even consumers will have to know how the technology they use affects their life. I'll include different road maps for the different levels of knowledge. I've written more in-depth about this [here](https://societysbackend.com/p/ai-isnt-an-option).
 * **Take your time.** Machine learning is a complex field that is growing quickly. Don't rush the learning process. It will always be a good time to learn about AI.
-* **Your greatest learning resource is people.** Very few people have a good grasp on all AI topics. The best way to learn about AI is from people who know about it and are sharing their knowledge. I've included [a list of people to follow and newsletters to subscribe to](#learn-from-others) for this purpose.
+* **Your greatest learning resource is people.** Very few people have a good grasp on all AI topics. The best way to learn about AI is from people who know about it and are sharing their knowledge. I've included [a list of people to follow and newsletters to subscribe to](others.md) for this purpose.
 * **AI is a work in progress.** Even the most well-known AI researchers are trying to understand how AI will affect humanity. Don't automatically assume something someone is saying is truth, learn from many different people, and check sources.
 
 ## Road Maps
