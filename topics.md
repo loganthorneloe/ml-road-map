@@ -17,6 +17,10 @@ Browsing ML learning resources by topic.
 
 * [Stanford's NLP w/Deep Learning Course](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
 
+### Transformers
+
+* [3Blue1Brown's Video Overview of Transformers](https://www.youtube.com/watch?v=wjZofJX0v4M)
+
 ### More on Deep Learning
 
 * [CMU Deep Learning](https://www.youtube.com/playlist?list=PLp-0K3kfddPxRmjgjm0P1WT6H-gTqE8j9)
