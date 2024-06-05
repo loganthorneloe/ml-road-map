@@ -1,6 +1,6 @@
 # Machine Learning Engineer Road Map
 
-This guide is for anyone who wants to become a amchine learnign engineer. ML engineers are responsible training, serving, and applying machine learning at a large scale. While modelers and researchers focus on model architecture and advancing the performance of machine learning algorithms, ML engineers focus on helping modelers do their job and applying those algorithms to real-world problems.
+This guide is for anyone who wants to become a machine learning engineer. ML engineers are responsible training, serving, and applying machine learning at a large scale. While modelers and researchers focus on model architecture and advancing the performance of machine learning algorithms, ML engineers focus on helping modelers do their job and applying those algorithms to real-world problems.
 
 Machine learning engineers need an understanding of the math behind machine learning (to a lesser extent than modelers, generally) and a strong background in software engineering w/a focus on scalability and reliability.
 
