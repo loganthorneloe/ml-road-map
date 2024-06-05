@@ -21,7 +21,7 @@ However, I know devs like to build things (myself included) so here's a building
 
 ## Find a problem
 
-Pick a problem you want to solve using an LLMs. This can be a specific use-case you have in mind or automating something in your workflow.
+Pick a problem you want to solve using a LLMs. This can be a specific use-case you have in mind or automating something in your workflow.
 
 Try to solve that problem using only ChatGPT (you don't even have to subscribe to Plus). See what you're able to and where it's weak. You'll really quickly realize the limitations to solving problems via an ML chat bot.
 

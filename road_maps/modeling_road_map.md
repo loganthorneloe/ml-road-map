@@ -50,8 +50,6 @@ If you've never touched Python before, I recommend [Harvard's Intro to Python](h
 
 If you have prior experience with it, I suggest [Google's Python Class](https://developers.google.com/edu/python) as a refresher. If you feel comfortable without a refresher, you can move on to the next section.
 
-If you really liked Python and want to learn more, check out our [Python Resources](../topics.md#python)
-
 ### Linear Algebra (required)
 
 Linear algebra is really the mathematical basis for machine learning. If you want to understand machine learning, you should understand linear algebra.

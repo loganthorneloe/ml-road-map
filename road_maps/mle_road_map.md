@@ -65,8 +65,6 @@ If you've never touched Python before, I recommend [Harvard's Intro to Python](h
 
 If you have prior experience with it, I suggest [Google's Python Class](https://developers.google.com/edu/python) as a refresher. If you feel comfortable without a refresher, you can move on to the next section.
 
-If you really liked Python and want to learn more, check out our [Python Resources](../topics.md#python)
-
 ### C++ (Low-level languages)
 
 If you don't have experience with languages commonly used to build machine learning infrastructure, I recommend taking a the [Learn C++ course from Codecademy](https://www.codecademy.com/learn/learn-c-plus-plus). While C++ isn't the only language commonly used for ML infra, an understanding of C++ will go a long way in understanding other languages you may need to know.

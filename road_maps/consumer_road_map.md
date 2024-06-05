@@ -8,4 +8,4 @@ More info to come in this section.
 
 ## Support this guide
 
-Don't forget to star this repo and [following me on X](https://x.com/loganthorneloe) to support this guide.
+Don't forget to star this repo and [follow me on X](https://x.com/loganthorneloe) to support this guide.
