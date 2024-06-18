@@ -1,4 +1,4 @@
-# Machine Learning Road Map Turbo Edition
+# Machine Learning Road Map-Turbo
 
 ![ml road map turbo](assets/road_map_turbo.jpeg)
 
@@ -14,7 +14,7 @@ _If you're looking for the previous road map, you can find it [here](road_maps/o
 
 ___
 
-- [Machine Learning Road Map Turbo Edition](#machine-learning-road-map-turbo-edition)
+- [Machine Learning Road Map-Turbo](#machine-learning-road-map-turbo)
   - [Things to Know Before You Begin](#things-to-know-before-you-begin)
   - [Machine Learning Prerequisites](#machine-learning-prerequisites)
   - [Machine Learning Fundamentals](#machine-learning-fundamentals)
