@@ -2,15 +2,17 @@
 
 ![ml road map turbo](assets/road_map_turbo.jpeg)
 
-Welcome to the **Machine Learning Road Map-Turbo**. This is the fastest, high-quality road map to get up-to-speed on machine learning fundamentals. It teaches you the prerequisites and machine learning math necessary to understand how machine learning works and build with it. The goal is to quickly get to a point where you can comfortably explore machine learning topics on your own. Many other road maps are more comprehensive, this one is purposefully streamlined.
+Welcome to the **Machine Learning Road Map-Turbo**. This is the fastest, high-quality road map to get up-to-speed on machine learning fundamentals. It teaches you the prerequisites and machine learning fundamentals necessary to understand how machine learning works and build with it. The goal is to quickly get to a point where you can comfortably explore machine learning topics on your own. Many other road maps are more comprehensive, this one is purposefully streamlined.
 
 These resources are aggregated from the best ML educators. I've linked to the authors as much as possible. Please support them. **Feedback/suggestions/corrections** are always welcome and appreciated.
 
 If you're less interested in the technical details of machine learning and want to know more about how machine learning will affect you as a consumer, [I've written an article just for that](https://societysbackend.com/p/ml-is-bananas).
 
-**This road map will be updated as new learning resources are created and new ML topics emerge. It will always remain streamlined.** Let's get started!
+**This road map will be updated as new learning resources are created and new ML topics emerge.** Let's get started!
 
 _If you're looking for the previous road map, you can find it [here](road_maps/old_road_map/README.md)._
+
+___
 
 - [Machine Learning Road Map Turbo Edition](#machine-learning-road-map-turbo-edition)
   - [Things to Know Before You Begin](#things-to-know-before-you-begin)
@@ -24,14 +26,12 @@ _If you're looking for the previous road map, you can find it [here](road_maps/o
 ## Things to Know Before You Begin
 
 * **Machine Learning will impact everyone's life.** It's a new paradigm of computing that will completely change the way consumers expect their devices to work.
-* **Machine learning is a rapidly developing field.** There are many, many area experts because there are many complex fields within machine learning.
-* **The best way to understand machine learning is to learn from others who understand the topics you want to know more about.** I've created a list of [accounts to follow on X](https://x.com/i/lists/1738669706595258373). I've also aggregated [a list of newsletters, blogs, and channels](#newsletters-blogs-and-channels-for-learning) I find helpful to stay updated.
-
-Let's get into the resources!
+* **Machine learning is a rapidly developing field.** There are many complex fields within machine learning. Take it slow and don't expect to become an expert in it all.
+* **The best way to understand machine learning is to learn from others who understand the topics you want to know more about.** I've created a list of [accounts to follow on X](https://x.com/i/lists/1738669706595258373). I've also aggregated [a list of newsletters, blogs, and channels](#newsletters-blogs-and-channels-for-machine-learning) I find helpful to stay updated.
 
 ## Machine Learning Prerequisites
 
-These prerequisites contain a mixture of math and programming concepts. **Do these in order**, skip as needed.
+These prerequisites contain a mixture of math and programming concepts. Feel free to skip things you already understand.
 
 | Topic | Source | Author 
 |---|---|---|
@@ -55,7 +55,7 @@ These prerequisites contain a mixture of math and programming concepts. **Do the
 
 ## Machine Learning Fundamentals
 
-Understand the fundamentals of machine learning:
+This is the main material. Complete these to understand machine learning fundamentals:
 
 | Topic | Source | Author
 |---|---|---|
@@ -96,7 +96,7 @@ High-quality resources to explore more advanced topics that are helpful for mach
 
 ## Newsletters, Blogs, and Channels for Machine Learning
 
-All of these are must-subscribers in my opinion.
+All of these are must-subscribes:
 
 | Resource | Author
 |---|---|
@@ -127,11 +127,11 @@ All of these are must-subscribers in my opinion.
 | [3Blue1Brown](https://www.youtube.com/@3blue1brown) | [Grant Sanderson](https://x.com/3blue1brown)
 | [RohanPaulAI](https://www.youtube.com/@RohanPaul-AI) | [Rohan Paul](https://x.com/rohanpaul_ai)
 
-For a list of the available ML YouTube Courses check out [this repo by Dair AI](https://github.com/dair-ai/ML-YouTube-Courses).
+For a list of **almost all** the available ML YouTube Courses check out [this repo by Dair AI](https://github.com/dair-ai/ML-YouTube-Courses).
 
 ## Free GPUs for Training
 
-This is a list of cloud providers that offer a free tier for machine learning workflows. This is to lower the barrier of entry for machine learning and show that you don't need a powerful local machine to get started. If anything in this list is incorrect, [reach out to me on X](https://x.com/loganthorneloe) so I can make the fix. If there is a cloud computing platform that I've missed, also let me know.
+I've aggregated a list of cloud providers that offer a free tier for training machine learning models. Anyone can get started with ML- you don't need a powerful local machine. If anything is incorrect, [reach out to me on X](https://x.com/loganthorneloe) so I can make the fix. If there is a cloud computing platform that I've missed, also let me know.
 
 | Resource | Details
 |---|---|
@@ -148,4 +148,4 @@ This is a list of cloud providers that offer a free tier for machine learning wo
 
 Don't forget to star this repo and [follow me on X](https://x.com/loganthorneloe) to support this guide. **Please support the authors of these resources by following them at the links I included.** You can also find them in my [ML on X](https://x.com/i/lists/1738669706595258373) list.
 
-If any information is missing, you are the author of a resource and you'd like it removed, or any other general feedback, [send me a message](https://x.com/loganthorneloe) to let me know. I'm also open to any resource suggestions I might be missing.
+If any information is missing, you are the author of a resource and you'd like it removed, or any other general feedback [send me a message](https://x.com/loganthorneloe) to let me know.
