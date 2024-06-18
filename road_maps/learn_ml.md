@@ -10,6 +10,8 @@ If you're less interested in the technical details of machine learning and want 
 
 **This road map will be updated as new learning resources are created and new ML topics emerge. It will always remain streamlined.** Let's get started!
 
+_If you're looking for the previous road map, you can find it [here]._
+
 ## Table of Contents
 - [Machine Learning Road Map Turbo Edition](#machine-learning-road-map-turbo-edition)
   - [Table of Contents](#table-of-contents)

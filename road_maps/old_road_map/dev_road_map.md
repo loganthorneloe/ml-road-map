@@ -4,7 +4,7 @@ With the recent boom of AI in products and services, I see a lot of developers w
 
 The difficult part about learning machine learning as a developer is the mindset for building applications programmatically and using AI is different. [Francois Chollet](https://twitter.com/fchollet) represents this change of thinking in a diagram in his [‘Deep Learning with Python’](https://www.manning.com/books/deep-learning-with-python-second-edition?a_aid=keras&a_bid=76564dff) book:
 
-![ml vs programming](../assets/chollet_diagram.png)
+![ml vs programming](../../assets/chollet_diagram.png)
 
 Instead of telling a program what to do, machine learning engineers use data and answers to help a program learn what to do on its own. It allows code to tackle complex problems that would be difficult to program but also requires engineers to understand the way machine learning algorithms come to their outputs. This means understanding unpredictability in:
 
