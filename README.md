@@ -6,7 +6,7 @@ Welcome to the **Machine Learning Road Map-Turbo**. This is the fastest, high-qu
 
 These resources are aggregated from the best ML educators. I've linked to the authors as much as possible. Please support them. **Feedback/suggestions/corrections** are always welcome and appreciated.
 
-If you're less interested in the technical details of machine learning and want to know more about how machine learning will affect you as a consumer, [I've written an article just for that](https://societysbackend.com/p/ml-is-bananas).
+If you're less interested in the technical details of machine learning and want to know more about how machine learning will affect you as a consumer, [I've written an article just for that](https://societysbackend.com/p/ml-is-bananas). You can also check out the [Google AI Essentials Course](https://www.coursera.org/google-learn/ai-essentials/?action=enroll&utm_campaign=sou--google__med--blog__cam--ai-launch__geo--US__con--kw&utm_medium=institutions&utm_source=google) learn how to use generative AI to boost your productivity.
 
 **This road map will be updated as new learning resources are created and new ML topics emerge.** Let's get started!
 
