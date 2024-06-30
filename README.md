@@ -93,6 +93,7 @@ High-quality resources to explore more advanced topics that are helpful for mach
 || [Advanced SQL](https://www.kaggle.com/learn/advanced-sql) | [Kaggle](https://kaggle.com/learn) | Course
 | Studying for ML Interviews | [Study Plan for ML Interviews](https://github.com/khangich/machine-learning-interview) | [Khang Pham](https://twitter.com/KhangAnPham) | Repo
 | Machine Learning Math | [Mathematics of Machine Learning](https://tivadar.gumroad.com/l/mathematics-of-machine-learning?wanted=true&referrer=https%3A%2F%2Ftivadardanka.com%2Fabout-me)| [Tivadar Danka](https://twitter.com/tivadardanka) | Book
+| Machine Learning Efficiency | [EfficientML.ai Lecture](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB)| [MIT](https://hanlab.mit.edu/courses/2023-fall-65940) | Course
 
 ## Newsletters, Blogs, and Channels for Machine Learning
 
