@@ -79,6 +79,7 @@ High-quality resources to explore more advanced topics that are helpful for mach
 | Natural Language Processing (NLP) | [NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) | [Huggingface](https://huggingface.co/learn) | Course
 | Transformers | [Start of NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) | [Huggingface](https://huggingface.co/learn) | Course
 | Deep Learning | [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/) | [LightningAI](https://lightning.ai) | Course
+| | [Deep Learning Book](https://www.deeplearningbook.org/) | Ian Goodfellow and Yoshua Bengio and Aaron Courville | Book
 | Reinforcement Learning (RL) | [Spinning Up](https://spinningup.openai.com/en/latest/) | [OpenAI](https://openai.com) | Course 
 | Computer Vision | [Computer Vision](https://www.kaggle.com/learn/computer-vision) | [Kaggle](https://kaggle.com/learn) | Course
 | Unsupervised Learning | [Second Half of CS229](CS229/lecture_14.md) | [Andrew Ng/Stanford](https://x.com/AndrewYNg) | Lecture
