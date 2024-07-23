@@ -75,14 +75,17 @@ High-quality resources to explore more advanced topics that are helpful for mach
 || [Quantization Section of LLM Course](https://github.com/mlabonne/llm-course?tab=readme-ov-file#quantization) | [Maxime Labonne](https://x.com/maximelabonne)| Course/Repo
 || [LLM Tools](https://github.com/mlabonne/llm-course?tab=readme-ov-file#tools) | [Maxime Labonne](https://x.com/maximelabonne)| Course/Repo
 || [LLM Engineering](https://github.com/mlabonne/llm-course?tab=readme-ov-file#-the-llm-engineer) | [Maxime Labonne](https://x.com/maximelabonne)| Course/Repo
+|| [LLM Engineer's Handbook](https://www.amazon.com/dp/1836200072?ref=cm_sw_r_cp_ud_dp_ZFR4XZPT7EY41ZE1M5X9&ref_=cm_sw_r_cp_ud_dp_ZFR4XZPT7EY41ZE1M5X9&social_share=cm_sw_r_cp_ud_dp_ZFR4XZPT7EY41ZE1M5X9) | Paul Iusztin, Maxime Labonne, Alex Vesa | Book
 | Generative AI | [Generative AI For Beginners](https://github.com/microsoft/generative-ai-for-beginners) | [Microsoft](https://www.microsoft.com/en-us/ai) | Course/Repo
 | Natural Language Processing (NLP) | [NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) | [Huggingface](https://huggingface.co/learn) | Course
 | Transformers | [Start of NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) | [Huggingface](https://huggingface.co/learn) | Course
 | Deep Learning | [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/) | [LightningAI](https://lightning.ai) | Course
 | | [Deep Learning Book](https://www.deeplearningbook.org/) | Ian Goodfellow and Yoshua Bengio and Aaron Courville | Book
+| | [The Engineer's Guide To Deep Learning](https://www.interdb.jp/dl/index.html) | [Hironobu Suzuki](https://x.com/suzuki_hironobu) | Book
 | Reinforcement Learning (RL) | [Spinning Up](https://spinningup.openai.com/en/latest/) | [OpenAI](https://openai.com) | Course 
 | Computer Vision | [Computer Vision](https://www.kaggle.com/learn/computer-vision) | [Kaggle](https://kaggle.com/learn) | Course
 | Unsupervised Learning | [Second Half of CS229](CS229/lecture_14.md) | [Andrew Ng/Stanford](https://x.com/AndrewYNg) | Lecture
+| Supervised Learning | [Supervised Machine Learning for Science](https://ml-science-book.com/) | Christoph Molnar & Timo Freiesleben | Book
 | ML for Video Games | [Machine Learning for Games](https://huggingface.co/learn/ml-games-course/unit0/introduction) | [Huggingface](https://huggingface.co/learn) | Course
 | Feature Engineering | [Data Prep](https://developers.google.com/machine-learning/data-prep/?utm_source=mlcc&utm_campaign=mlcc-next-steps&utm_medium=referral&utm_content=data-prep-ss) | [Google](https://developers.google.com/) | Course
 | AI Ethics | [Intro to AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics) | [Kaggle](https://kaggle.com/learn) | Course
@@ -96,6 +99,7 @@ High-quality resources to explore more advanced topics that are helpful for mach
 | Machine Learning Math | [Mathematics of Machine Learning](https://tivadar.gumroad.com/l/mathematics-of-machine-learning?wanted=true&referrer=https%3A%2F%2Ftivadardanka.com%2Fabout-me)| [Tivadar Danka](https://twitter.com/tivadardanka) | Book
 | Machine Learning Efficiency | [EfficientML.ai Lecture](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB)| [MIT](https://hanlab.mit.edu/courses/2023-fall-65940) | Course
 | Knowledge Distillation | [Awesome Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation)| [Dmitry Kozlov](https://github.com/dkozlov) | Repo
+| System Design | System Design Interview [Volume 1](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/ref=sr_1_1?crid=JX9PXJDACSPE&dib=eyJ2IjoiMSJ9.CZwZ7txhICEtME2JuLCqj9Bkde4opffmKt_uE1rHfEIb7jRrLFvGUvKYqbsiljVkHZSb--1a1bUA9raXIXcpqtTPeg4W9Gp5ORApDkf4yGj_PINh3CLAEqn270KmROrZOn7bjeNHjjCWXl0h91GFWnn-TV9Oj8my3oaE2AZqCEnOe5O7khcpiLe3or1cdxkJWdZiAPmcDhBqZkk0Xd-zCbH_BHXcOAuM_GF5HUIF1Ug.dcEt6jC3UduxTXFiZ8zAHcMtoPv4yi1KEuB6fVNmhBA&dib_tag=se&keywords=system+design+alex+xu&qid=1721701289&sprefix=system+design+alex+%2Caps%2C106&sr=8-1) and [Volume 2](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119/ref=sr_1_2_sspa?crid=JX9PXJDACSPE&dib=eyJ2IjoiMSJ9.CZwZ7txhICEtME2JuLCqj9Bkde4opffmKt_uE1rHfEIb7jRrLFvGUvKYqbsiljVkHZSb--1a1bUA9raXIXcpqtTPeg4W9Gp5ORApDkf4yGj_PINh3CLAEqn270KmROrZOn7bjeNHjjCWXl0h91GFWnn-TV9Oj8my3oaE2AZqCEnOe5O7khcpiLe3or1cdxkJWdZiAPmcDhBqZkk0Xd-zCbH_BHXcOAuM_GF5HUIF1Ug.dcEt6jC3UduxTXFiZ8zAHcMtoPv4yi1KEuB6fVNmhBA&dib_tag=se&keywords=system+design+alex+xu&qid=1721701289&sprefix=system+design+alex+%2Caps%2C106&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)| [Alex Xu](https://twitter.com/alexxubyte) | Book
 
 ## Newsletters, Blogs, and Channels for Machine Learning
 
