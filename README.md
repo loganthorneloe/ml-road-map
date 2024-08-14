@@ -1,8 +1,8 @@
-# Machine Learning Road Map-Turbo
+# Machine Learning Road Map
 
 ![ml road map turbo](assets/road_map_turbo.jpeg)
 
-Welcome to the **Machine Learning Road Map-Turbo**. This is the fastest, high-quality road map to get up to speed on machine learning fundamentals. It teaches you the prerequisites and machine learning fundamentals necessary to understand how machine learning works and build with it. The goal is to quickly get to a point where you can comfortably explore machine learning topics on your own. Many other road maps are more comprehensive, this one is purposefully streamlined.
+Welcome to the **Machine Learning Road Map**. This is the fastest, high-quality road map to get up to speed on machine learning fundamentals. It teaches you the prerequisites and machine learning fundamentals necessary to understand how machine learning works and build with it. The goal is to quickly get to a point where you can comfortably explore machine learning topics on your own. Many other road maps are more comprehensive, this one is purposefully streamlined.
 
 These resources are aggregated from the best ML educators. I've linked to the authors as much as possible. Please support them. **Feedback/suggestions/corrections** are always welcome and appreciated.
 
@@ -14,7 +14,7 @@ _If you're looking for the previous road map, you can find it [here](road_maps/o
 
 ___
 
-- [Machine Learning Road Map-Turbo](#machine-learning-road-map-turbo)
+- [Machine Learning Road Map](#machine-learning-road-map)
   - [Things to Know Before You Begin](#things-to-know-before-you-begin)
   - [Machine Learning Prerequisites](#machine-learning-prerequisites)
   - [Machine Learning Fundamentals](#machine-learning-fundamentals)
