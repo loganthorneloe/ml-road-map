@@ -19,6 +19,7 @@ ___
   - [Machine Learning Prerequisites](#machine-learning-prerequisites)
   - [Machine Learning Fundamentals](#machine-learning-fundamentals)
   - [Advanced ML Topics](#advanced-ml-topics)
+  - [Job Skills and Where to Learn Them \[WIP\]](#job-skills-and-where-to-learn-them-wip)
   - [Newsletters, Blogs, and Channels for Machine Learning](#newsletters-blogs-and-channels-for-machine-learning)
   - [Free GPUs for Training](#free-gpus-for-training)
   - [Support This Guide](#support-this-guide)
@@ -100,6 +101,44 @@ High-quality resources to explore more advanced topics that are helpful for mach
 | Machine Learning Efficiency | [EfficientML.ai Lecture](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB)| [MIT](https://hanlab.mit.edu/courses/2023-fall-65940) | Course
 | Knowledge Distillation | [Awesome Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation)| [Dmitry Kozlov](https://github.com/dkozlov) | Repo
 | System Design | System Design Interview [Volume 1](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/ref=sr_1_1?crid=JX9PXJDACSPE&dib=eyJ2IjoiMSJ9.CZwZ7txhICEtME2JuLCqj9Bkde4opffmKt_uE1rHfEIb7jRrLFvGUvKYqbsiljVkHZSb--1a1bUA9raXIXcpqtTPeg4W9Gp5ORApDkf4yGj_PINh3CLAEqn270KmROrZOn7bjeNHjjCWXl0h91GFWnn-TV9Oj8my3oaE2AZqCEnOe5O7khcpiLe3or1cdxkJWdZiAPmcDhBqZkk0Xd-zCbH_BHXcOAuM_GF5HUIF1Ug.dcEt6jC3UduxTXFiZ8zAHcMtoPv4yi1KEuB6fVNmhBA&dib_tag=se&keywords=system+design+alex+xu&qid=1721701289&sprefix=system+design+alex+%2Caps%2C106&sr=8-1) and [Volume 2](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119/ref=sr_1_2_sspa?crid=JX9PXJDACSPE&dib=eyJ2IjoiMSJ9.CZwZ7txhICEtME2JuLCqj9Bkde4opffmKt_uE1rHfEIb7jRrLFvGUvKYqbsiljVkHZSb--1a1bUA9raXIXcpqtTPeg4W9Gp5ORApDkf4yGj_PINh3CLAEqn270KmROrZOn7bjeNHjjCWXl0h91GFWnn-TV9Oj8my3oaE2AZqCEnOe5O7khcpiLe3or1cdxkJWdZiAPmcDhBqZkk0Xd-zCbH_BHXcOAuM_GF5HUIF1Ug.dcEt6jC3UduxTXFiZ8zAHcMtoPv4yi1KEuB6fVNmhBA&dib_tag=se&keywords=system+design+alex+xu&qid=1721701289&sprefix=system+design+alex+%2Caps%2C106&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)| [Alex Xu](https://twitter.com/alexxubyte) | Book
+
+## Job Skills and Where to Learn Them [WIP]
+
+This section contains the technologies and skills I find most often as I go through real machine learning-related job descriptions and the resources for learning each.
+
+| Topic | Source | Author
+|---|---|---|
+| Tensorflow | Coming Soon | Coming Soon
+| PyTorch | Coming Soon | Coming Soon
+| Scikit-learn | Coming Soon | Coming Soon
+| Keras | Coming Soon | Coming Soon
+| NumPy | Coming Soon | Coming Soon
+| Pandas | Coming Soon | Coming Soon
+| SQL | Coming Soon | Coming Soon
+| Python | Coming Soon | Coming Soon
+| C++ | Coming Soon | Coming Soon
+| Rust | Coming Soon | Coming Soon
+| JAX | Coming Soon | Coming Soon
+| Linear Algebra | Coming Soon | Coming Soon
+| Calculus | Coming Soon | Coming Soon
+| Deep Learning | Coming Soon | Coming Soon
+| Computer Vision | Coming Soon | Coming Soon
+| Natural Language Processing | Coming Soon | Coming Soon
+| ONNX | Coming Soon | Coming Soon
+| TensorRT | Coming Soon | Coming Soon
+| LangChain | Coming Soon | Coming Soon
+| AWS | Coming Soon | Coming Soon
+| Azure | Coming Soon | Coming Soon
+| GCP | Coming Soon | Coming Soon
+| XGBoost | Coming Soon | Coming Soon
+| Transformers | Coming Soon | Coming Soon
+| Cuda | Coming Soon | Coming Soon
+| Java | Coming Soon | Coming Soon
+| LLMs | Coming Soon | Coming Soon
+| RAG | Coming Soon | Coming Soon
+| Kubernetes | Coming Soon | Coming Soon
+| Docker | Coming Soon | Coming Soon
+
 
 ## Newsletters, Blogs, and Channels for Machine Learning
 
