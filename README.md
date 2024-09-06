@@ -8,10 +8,12 @@ These resources are aggregated from the best ML educators. I've linked to the au
 
 If you're less interested in the technical details of machine learning and want to know more about how machine learning will affect you as a consumer, [I've written an article just for that](https://societysbackend.com/p/ml-is-bananas). You can also check out the [Google AI Essentials Course](https://www.coursera.org/google-learn/ai-essentials/?action=enroll&utm_campaign=sou--google__med--blog__cam--ai-launch__geo--US__con--kw&utm_medium=institutions&utm_source=google) learn how to use generative AI to boost your productivity.
 
+To support this project and stay updated:
+- ⭐ Star this repository
+- 🐦 Follow me on X (Twitter): [@loganthorneloe](https://twitter.com/loganthorneloe)
+- 👨‍💻 Follow me on GitHub: [loganthorneloe](https://github.com/loganthorneloe)
+
 **This road map will be updated as new learning resources are created and new ML topics emerge.** Let's get started!
-
-_If you're looking for the previous road map, you can find it [here](road_maps/old_road_map/README.md)._
-
 ___
 
 - [Machine Learning Road Map](#machine-learning-road-map)
@@ -19,6 +21,7 @@ ___
   - [Machine Learning Prerequisites](#machine-learning-prerequisites)
   - [Machine Learning Fundamentals](#machine-learning-fundamentals)
   - [Advanced ML Topics](#advanced-ml-topics)
+  - [Job Skills and Where to Learn Them](#job-skills-and-where-to-learn-them)
   - [Newsletters, Blogs, and Channels for Machine Learning](#newsletters-blogs-and-channels-for-machine-learning)
   - [Free GPUs for Training](#free-gpus-for-training)
   - [Support This Guide](#support-this-guide)
@@ -100,6 +103,46 @@ High-quality resources to explore more advanced topics that are helpful for mach
 | Machine Learning Efficiency | [EfficientML.ai Lecture](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB)| [MIT](https://hanlab.mit.edu/courses/2023-fall-65940) | Course
 | Knowledge Distillation | [Awesome Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation)| [Dmitry Kozlov](https://github.com/dkozlov) | Repo
 | System Design | System Design Interview [Volume 1](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/ref=sr_1_1?crid=JX9PXJDACSPE&dib=eyJ2IjoiMSJ9.CZwZ7txhICEtME2JuLCqj9Bkde4opffmKt_uE1rHfEIb7jRrLFvGUvKYqbsiljVkHZSb--1a1bUA9raXIXcpqtTPeg4W9Gp5ORApDkf4yGj_PINh3CLAEqn270KmROrZOn7bjeNHjjCWXl0h91GFWnn-TV9Oj8my3oaE2AZqCEnOe5O7khcpiLe3or1cdxkJWdZiAPmcDhBqZkk0Xd-zCbH_BHXcOAuM_GF5HUIF1Ug.dcEt6jC3UduxTXFiZ8zAHcMtoPv4yi1KEuB6fVNmhBA&dib_tag=se&keywords=system+design+alex+xu&qid=1721701289&sprefix=system+design+alex+%2Caps%2C106&sr=8-1) and [Volume 2](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119/ref=sr_1_2_sspa?crid=JX9PXJDACSPE&dib=eyJ2IjoiMSJ9.CZwZ7txhICEtME2JuLCqj9Bkde4opffmKt_uE1rHfEIb7jRrLFvGUvKYqbsiljVkHZSb--1a1bUA9raXIXcpqtTPeg4W9Gp5ORApDkf4yGj_PINh3CLAEqn270KmROrZOn7bjeNHjjCWXl0h91GFWnn-TV9Oj8my3oaE2AZqCEnOe5O7khcpiLe3or1cdxkJWdZiAPmcDhBqZkk0Xd-zCbH_BHXcOAuM_GF5HUIF1Ug.dcEt6jC3UduxTXFiZ8zAHcMtoPv4yi1KEuB6fVNmhBA&dib_tag=se&keywords=system+design+alex+xu&qid=1721701289&sprefix=system+design+alex+%2Caps%2C106&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)| [Alex Xu](https://twitter.com/alexxubyte) | Book
+
+
+Your support helps keep this resource up-to-date and valuable for the ML community!
+
+## Job Skills and Where to Learn Them
+
+This section contains the technologies and skills I find most often as I go through real machine learning-related job descriptions and the resources for learning each.
+
+| Topic | Source | Author
+|---|---|---|
+| Tensorflow | [TensorFlow 2.0 Complete Course](https://www.youtube.com/watch?v=tPYj3fFJGjk) | [freeCodeCamp](https://twitter.com/freeCodeCamp)
+| PyTorch | [PyTorch for Deep Learning](https://www.youtube.com/watch?v=Z_ikDlimN6A) | [Daniel Bourke](https://twitter.com/mrdbourke)
+| Scikit-learn | [Scikit-learn Tutorials](https://scikit-learn.org/stable/tutorial/index.html) | Scikit-learn Developers
+| Keras | [Keras Tutorial](https://www.tutorialspoint.com/keras/index.htm) | TutorialsPoint
+| NumPy | [NumPy Tutorial](https://numpy.org/doc/stable/user/quickstart.html) | NumPy Team
+| Pandas | [Pandas Course](https://www.kaggle.com/learn/pandas) | [Kaggle](https://kaggle.com/learn)
+| SQL | [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql) | [Kaggle](https://kaggle.com/learn)
+| Python | [Intro to Python (For Beginners)](https://cs50.harvard.edu/python/2022/) | Harvard
+| C++ | [C++ Tutorial for Beginners](https://www.youtube.com/watch?v=vLnPwxZdW4Y) | [freeCodeCamp](https://twitter.com/freeCodeCamp)
+| Rust | [The Rust Programming Language](https://doc.rust-lang.org/book/) | Rust Team
+| JAX | [JAX Quickstart](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html) | [Google](https://developers.google.com/)
+| Linear Algebra | [Linear Algebra Curriculum](https://www.khanacademy.org/math/linear-algebra) | Khan Academy
+| Calculus | [Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) | [3Blue1Brown](https://twitter.com/3blue1brown)
+| Deep Learning | [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/) | [LightningAI](https://lightning.ai)
+| Computer Vision | [Computer Vision](https://www.kaggle.com/learn/computer-vision) | [Kaggle](https://kaggle.com/learn)
+| Natural Language Processing | [NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) | [Huggingface](https://huggingface.co/learn)
+| ONNX | [ONNX Tutorial](https://github.com/onnx/tutorials) | ONNX Team
+| TensorRT | [TensorRT Developer Guide](https://docs.nvidia.com/deeplearning/tensorrt/developer-guide/index.html) | NVIDIA
+| LangChain | [LangChain Crash Course](https://www.youtube.com/watch?v=LbT1yp6quS8) | Patrick Loeber
+| AWS | [AWS Machine Learning](https://aws.amazon.com/training/learn-about/machine-learning/) | Amazon Web Services
+| Azure | [Azure AI Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-fundamentals/) | [Microsoft](https://www.microsoft.com/en-us/ai)
+| GCP | [Machine Learning on Google Cloud](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp) | Google Cloud
+| XGBoost | [XGBoost Documentation](https://xgboost.readthedocs.io/en/latest/) | XGBoost Team
+| Transformers | [Transformers Course](https://huggingface.co/course/chapter1/1) | Hugging Face
+| CUDA | [CUDA C++ Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html) | NVIDIA
+| Java | [Java Programming](https://java-programming.mooc.fi/) | University of Helsinki
+| LLMs | [Building LLMs from the Ground Up](https://www.youtube.com/watch?v=quh7z1q7-uc) | [Sebastian Raschka](https://x.com/rasbt)
+| RAG | [Building RAG-based LLM Applications for Production](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/) | [DeepLearning.AI](https://www.deeplearning.ai/)
+| Kubernetes | [Kubernetes Tutorial for Beginners](https://www.youtube.com/watch?v=X48VuDVv0do) | TechWorld with Nana
+| Docker | [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo) | [freeCodeCamp](https://twitter.com/freeCodeCamp)
 
 ## Newsletters, Blogs, and Channels for Machine Learning
 
