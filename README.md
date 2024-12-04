@@ -1,201 +1,245 @@
-# Machine Learning Road Map
+![ml road map](assets/road_map_turbo.jpeg)
 
-![ml road map turbo](assets/road_map_turbo.jpeg)
+<p align="center">🌟<strong>This guide is free!</strong> Support it (and me!) for free:🌟</p>
 
-Welcome to the **Machine Learning Road Map**. This is the fastest, high-quality road map to get up to speed on machine learning fundamentals. It teaches you the prerequisites and machine learning fundamentals necessary to understand how machine learning works and build with it. The goal is to quickly get to a point where you can comfortably explore machine learning topics on your own. Many other road maps are more comprehensive, this one is purposefully streamlined.
+<div style="display: flex; gap: 10px; margin-bottom: 20px; justify-content: center;">
+  <a href="https://github.com/loganthorneloe/ml-road-map">
+    <img src="https://img.shields.io/github/stars/loganthorneloe/ml-road-map?style=social" alt="Star on GitHub">
+  </a>
+  <a href="https://societysbackend.com">
+    <img src="https://img.shields.io/badge/Subscribe-More%20learning%20resources-orange?style=social&logo=substack" alt="Get all resources from Society's Backend">
+  </a>
+  <a href="https://twitter.com/loganthorneloe">
+    <img src="https://img.shields.io/twitter/follow/loganthorneloe?style=social" alt="Follow on X">
+  </a>
+  <a href="https://youtube.com/@loganthorneloe">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC3H55I0SqNKQgJU77LsFiBw?style=social&logo=youtube" alt="Subscribe on YouTube">
+  </a>
+</div>
 
-These resources are aggregated from the best ML educators. I've linked to the authors as much as possible. Please support them. **Feedback/suggestions/corrections** are always welcome and appreciated.
+Welcome to the **Machine Learning Road Map**: A succinct guide to learning ML fundamentals for free!
 
-If you're less interested in the technical details of machine learning and want to know more about how machine learning will affect you as a consumer, [I've written an article just for that](https://societysbackend.com/p/ml-is-bananas). You can also check out the [Google AI Essentials Course](https://www.coursera.org/google-learn/ai-essentials/?action=enroll&utm_campaign=sou--google__med--blog__cam--ai-launch__geo--US__con--kw&utm_medium=institutions&utm_source=google) learn how to use generative AI to boost your productivity.
+This streamlined guide will help you:
 
-To support this project and stay updated:
-- ⭐ Star this repository
-- 🐦 Follow me on X (Twitter): [@loganthorneloe](https://twitter.com/loganthorneloe)
-- 👨‍💻 Follow me on GitHub: [loganthorneloe](https://github.com/loganthorneloe)
+- **Learn essential prerequisites**
+- **Master core ML concepts efficiently**
+- **Build a foundation to understand advanced topics**
+- **Get ready for real-world ML development**
 
-**This road map will be updated as new learning resources are created and new ML topics emerge.** Let's get started!
+Unlike comprehensive guides that can be overwhelming, this road map is streamlined and focuses on the most important topics from the best ML educators. The goal is simple: **to get you to a point where you can confidently explore ML topics independently**.
+
+> **Please support the authors and creators of these resources!** Many of these resources had hundreds of hours put into them. If you purchase a book linked in the advanced topics section, don't forget to leave a review after reading it! Reviews are vital for authors to continue their work. I've linked to social profiles throughout the document as much as I could. You can support the creators of these resources for free by giving them a follow and liking their content.
+
+Let's begin your ML journey! 🚀
+
+<details open>
+<summary>Table of Contents</summary>
+
+- [Prerequisites](#prerequisites)
+  - [Programming](#programming)
+  - [Mathematics](#mathematics)
+  - [Development Tools](#development-tools)
+- [Fundamentals](#fundamentals)
+- [Advanced Topics](#advanced-topics)
+  - [Core Concepts](#core-concepts)
+  - [Language Models and NLP](#language-models-and-nlp)
+  - [Deep Learning and Transformers](#deep-learning-and-transformers)
+  - [Reinforcement Learning](#reinforcement-learning)
+  - [Natural Language Processing and Computer Vision](#natural-language-processing-and-computer-vision)
+  - [Learning Applications](#learning-applications)
+  - [Handling Data](#handling-data)
+  - [ML Engineering](#ml-engineering)
+  - [Other Important Topics](#other-important-topics)
+- [Job Skills](#job-skills)
+  - [Interview Prep](#interview-prep)
+  - [Programming Languages](#programming-languages)
+  - [ML Frameworks](#ml-frameworks)
+  - [Cloud Platforms](#cloud-platforms)
+  - [DevOps Tools](#devops-tools)
+- [Free GPUs](#free-gpus)
+- [Other Resources](#other-resources)
+
+</details>
+
+<br></br>
+![prerequisites](assets/road_map_sections/prereqs.png)
+## Prerequisites
+
+### Programming
+**General Programming**
+- 📚 [CS50](https://cs50.harvard.edu/x/2024/weeks/0/) by [Harvard](https://www.harvard.edu/)
+  > Perfect starting point for complete beginners
+
+**Python**
+- 📚 [Intro to Python](https://cs50.harvard.edu/python/2022/) by [Harvard](https://www.harvard.edu/)
+  > For beginners
+- 📚 [Google's Python Class](https://developers.google.com/edu/python) by [Google](https://developers.google.com/)
+  > Great as a refresher
+
+**Data Libraries**
+- 📘 [NumPy Tutorial](https://numpy.org/doc/stable/user/quickstart.html) by [NumPy Team](https://numpy.org/teams/)
+- 📘 [Pandas Course](https://www.kaggle.com/learn/pandas) by [Kaggle](https://kaggle.com/learn)
+
+### Mathematics
+**Foundation**
+- 📐 [Algebra Curriculum](https://www.khanacademy.org/math/algebra-home) by [Khan Academy](https://www.khanacademy.org/)
+- 📐 [Linear Algebra](https://www.khanacademy.org/math/linear-algebra) by [Khan Academy](https://www.khanacademy.org/)
+
+**Advanced Topics**
+- 📊 [Probability](https://cs50.harvard.edu/ai/2024/weeks/2/) by [Harvard](https://www.harvard.edu/)
+- 📈 [Derivatives/Partial Derivatives](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives) by [Khan Academy](https://www.khanacademy.org/)
+- 📈 [Gradients](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/gradient-and-directional-derivatives/v/gradient) by [Khan Academy](https://www.khanacademy.org/)
+- 📈 [Backpropagation Visualization](https://developers-dot-devsite-v2-prod.appspot.com/machine-learning/crash-course/backprop-scroll/) by [Google](https://developers.google.com/)
+
+### Development Tools
+**Version Control**
+- 🛠️ [Learn Git](https://git-scm.com/book/en/v2) by [Git Community](https://git-scm.com/)
+- 🛠️ [Github Tutorial](https://docs.github.com/en/get-started) by [GitHub](https://github.com/)
+
+**Command Line**
+- 🛠️ [Learn Shell](https://www.learnshell.org) by [learnshell.org](https://www.learnshell.org)
+
+<br></br>
+![fundamentals](assets/road_map_sections/fundamentals.png)
+## Fundamentals
+
+**Core Machine Learning** 
+- 📚 [20 Min Introduction to Machine Learning](https://developers.google.com/machine-learning/intro-to-ml) by [Google](https://developers.google.com/)
+  > Perfect starting point for ML concepts
+- 📚 [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/framing/video-lecture) by [Google](https://developers.google.com/)
+  > Comprehensive foundation in ML fundamentals
+
+<br></br>
+![advanced_topics](assets/road_map_sections/advanced_topics.png)
+## Advanced Topics
+
+### Core Concepts
+- 📘 [Machine Learning Q and AI](https://www.amazon.com/Machine-Learning-AI-Essential-Questions/dp/1718503768/) by [Sebastian Raschka](https://x.com/rasbt)
+  > A deep dive into a wide variety of advanced ML concepts
+
+### Language Models and NLP
+- 🎥 [Intro to LLMs](https://www.youtube.com/watch?v=zjkBMFhNj_g) by [Andrej Karpathy](https://x.com/karpathy)
+- 🎥 [Building and Fine-tuning LLMs](https://www.youtube.com/watch?v=kPGTx4wcm_w) by [Sebastian Raschka](https://x.com/rasbt)
+- 📘 [Build an LLM From Scratch](https://github.com/rasbt/LLMs-from-scratch) by [Sebastian Raschka](https://x.com/rasbt)
+- 📚 [LLM Course Sections](https://github.com/mlabonne/llm-course) by [Maxime Labonne](https://x.com/maximelabonne)
+
+### Deep Learning and Transformers
+- 📚 [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/) by [LightningAI](https://lightning.ai)
+- 📚 [Engineer's Guide to Deep Learning](https://www.interdb.jp/dl/index.html) by [Hironobu Suzuki](https://x.com/suzuki_hironobu)
+- 📚 [Transformers Course](https://huggingface.co/course/chapter1/1) by [Hugging Face](https://huggingface.co/learn)
+
+### Reinforcement Learning
+- 📚 [Spinning Up in RL](https://spinningup.openai.com/en/latest/) by [OpenAI](https://openai.com)
+
+### Natural Language Processing and Computer Vision
+- 📚 [NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) by [Huggingface](https://huggingface.co/learn)
+- 📚 [Computer Vision](https://www.kaggle.com/learn/computer-vision) by [Kaggle](https://kaggle.com/learn)
+
+### Learning Applications
+- 📘 [ML for Science](https://ml-science-book.com/) by Christoph Molnar & Timo Freiesleben
+- 🎮 [ML for Games](https://huggingface.co/learn/ml-games-course/unit0/introduction) by [Huggingface](https://huggingface.co/learn)
+
+### Handling Data
+- 📚 [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql) and [Advanced SQL](https://www.kaggle.com/learn/advanced-sql) by [Kaggle](https://kaggle.com/learn)
+- 📚 [Data Preparation](https://developers.google.com/machine-learning/data-prep) by [Google](https://developers.google.com/)
+
+### ML Engineering
+- 🛠️ [Made with ML](https://madewithml.com/) by [Goku Mohandas](https://x.com/GokuMohandas)
+- 🎓 [ML School](https://www.ml.school/) by [Santiago](https://x.com/svpino)
+
+### Other Important Topics
+- 📐 [ML Mathematics](https://tivadar.gumroad.com/l/mathematics-of-machine-learning) by [Tivadar Danka](https://twitter.com/tivadardanka)
+- ��� [ML Efficiency](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB) by [MIT](https://hanlab.mit.edu/courses/2023-fall-65940)
+- 📘 [Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation) by [Dmitry Kozlov](https://github.com/dkozlov)
+- 📚 [AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics) by [Kaggle](https://kaggle.com/learn)
+- 📚 [ML Explainability](https://www.kaggle.com/learn/machine-learning-explainability) by [Kaggle](https://kaggle.com/learn)
+
+<br></br>
+![job_skills](assets/road_map_sections/job_skills.png)
+## Job Skills
+
+This sections contains popular skills on machine learning-related job listings and resources to prepare for interviews for those jobs.
+
+### Interview Prep
+- [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?crid=HXRLJFWYRL3K&dib=eyJ2IjoiMSJ9.nj6XTCgbP7Ay4ig5zGU-o8s4S8xUCinbbuvNUlcvZoKcmCc7i-CEuvrKeTXNikBonDw5_oYbbkqp6V8iSnFxLXJA-ZU-hEuDRpiZVtsXGUF3r0UaaZsg6ndyN8H859JLZQenChOGEpdEVswxjd3E9WPw5uavC_6PEIeFFnPS_ePqkzkPpen134RS9tnGcpCjpWdSNrKx2PHiLsg-Abf6DrnHccTmtfK9TGzWKEVdPJ8.YwB_6lTXNfgGDVuVgfLhv8EtqvCrZPbzzC-CWB4KUbM&dib_tag=se&keywords=cracking+the+coding+interview&qid=1733347440&sprefix=cracking+the+coding+intervi%2Caps%2C140&sr=8-1) by Gayle Laakman McDowell
+  > Create for understanding and practicing Leetcode-style questions
+- 📘 System Design Interview by [Alex Xu](https://twitter.com/alexxubyte)
+  - [Volume 1](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/)
+  - [Volume 2](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119/)
+  > Preparation for system design
+- [Study Plan for ML Interviews](https://github.com/khangich/machine-learning-interview) by [Khang Pham](https://x.com/KhangAnPham)
+  > A minimum viable study plan for machine learning interviews
+
+### Programming Languages
+- 📚 [Intro to Python](https://cs50.harvard.edu/python/2022/) by Harvard
+  > Comprehensive beginner-friendly Python course
+- 📚 [Python Deep Dive](https://thepythoncodingplace.com/) by [Stephen Gruppetta](https://x.com/s_gruppetta_ct)
+  > More advanced and comprehensive
+- 📚 [C++ Tutorial](https://www.youtube.com/watch?v=vLnPwxZdW4Y) by [freeCodeCamp](https://twitter.com/freeCodeCamp)
+  > Complete C++ course for beginners
+- 📘 [Rust](https://doc.rust-lang.org/book/) by Rust Team
+- 📚 [Java](https://java-programming.mooc.fi/) by University of Helsinki
+
+### ML Frameworks
+**Deep Learning**
+- 📚 [TensorFlow 2.0 Complete Course](https://www.youtube.com/watch?v=tPYj3fFJGjk) by [freeCodeCamp](https://twitter.com/freeCodeCamp)
+- 📚 [PyTorch for Deep Learning](https://www.youtube.com/watch?v=Z_ikDlimN6A) by [Daniel Bourke](https://twitter.com/mrdbourke)
+- 📘 [Scikit-learn Tutorials](https://scikit-learn.org/stable/tutorial/index.html) by Scikit-learn Developers
+- 📘 [Keras Tutorial](https://www.tutorialspoint.com/keras/index.htm) by TutorialsPoint
+
+**Data Processing**
+- 📘 [NumPy Tutorial](https://numpy.org/doc/stable/user/quickstart.html) by NumPy Team
+- 📚 [Pandas Course](https://www.kaggle.com/learn/pandas) by [Kaggle](https://kaggle.com/learn)
+
+**Advanced Tools**
+- 🛠️ [JAX Quickstart](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html) by [Google](https://developers.google.com/)
+- 🛠️ [ONNX Tutorial](https://github.com/onnx/tutorials) by ONNX Team
+- 🛠️ [TensorRT Guide](https://docs.nvidia.com/deeplearning/tensorrt/developer-guide/index.html) by [NVIDIA](https://developer.nvidia.com/)
+- 🛠️ [LangChain Crash Course](https://www.youtube.com/watch?v=LbT1yp6quS8) by [Patrick Loeber](https://www.youtube.com/@PatrickLoeber)
+
+**Model Development**
+- 📘 [XGBoost Documentation](https://xgboost.readthedocs.io/en/latest/) by XGBoost Team
+- 📘 [CUDA Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html) by [NVIDIA](https://developer.nvidia.com/)
+
+### Cloud Platforms
+**Major Providers**
+- 🛠️ [ML on Google Cloud](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp) by [Google Cloud](https://cloud.google.com/)
+- 🛠️ [AWS Machine Learning](https://aws.amazon.com/training/learn-about/machine-learning/) by [Amazon Web Services](https://aws.amazon.com/)
+- 🛠️ [Azure AI Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-fundamentals/) by [Microsoft](https://www.microsoft.com/en-us/ai)
+
+### DevOps Tools
+- 🛠️ [Kubernetes Tutorial](https://www.youtube.com/watch?v=X48VuDVv0do) by [TechWorld with Nana](https://www.youtube.com/@TechWorldwithNana)
+- 🛠️ [Docker Tutorial](https://www.youtube.com/watch?v=fqMOX6JJhGo) by [freeCodeCamp](https://twitter.com/freeCodeCamp)
+
+<br></br>
+![free_gpus](assets/road_map_sections/free_gpus.png)
+## Free GPUs
+
+**Top Choices**
+- 🖥️ [Google Colab](https://colab.google/)
+  > Free T4/P100 GPUs, limited time
+- 🖥️ [Kaggle Notebooks](https://www.kaggle.com/code)
+  > 30 hours/week of P100/T4 GPU
+
+**Additional Options**
+- 🖥️ [Lightning AI](https://lightning.ai/)
+  > 22 GPU hours free
+- 🖥️ [Google Cloud Platform](https://cloud.google.com/gpu)
+  > $300 free credits
+- 🖥️ [Amazon SageMaker](https://aws.amazon.com/machine-learning/accelerate-machine-learning-P3/)
+  > Free tier available
+- 🖥️ [Paperspace Gradient](https://www.paperspace.com/notebooks)
+  > Free community tier
+
+<br></br>
+![other_resources](assets/road_map_sections/other_resources.png)
+## Other Resources
+
+- 📰 Recommended [newsletters](https://societysbackend.com/recommendations) by [me](https://x.com/loganthorneloe)
+- 🎥 Recommended [YouTube channels](https://github.com/dair-ai/ML-YouTube-Courses) by [Dair AI](https://dair.ai/)
+- 🐦 Recommended [accounts to follow on X](https://x.com/i/lists/1738669706595258373) by [me](https://x.com/loganthorneloe)
+<br></br>
+___
 ___
 
-- [Machine Learning Road Map](#machine-learning-road-map)
-  - [Things to Know Before You Begin](#things-to-know-before-you-begin)
-  - [Machine Learning Prerequisites](#machine-learning-prerequisites)
-  - [Machine Learning Fundamentals](#machine-learning-fundamentals)
-  - [Advanced ML Topics](#advanced-ml-topics)
-  - [Job Skills and Where to Learn Them](#job-skills-and-where-to-learn-them)
-  - [Newsletters, Blogs, and Channels for Machine Learning](#newsletters-blogs-and-channels-for-machine-learning)
-  - [Free GPUs for Training](#free-gpus-for-training)
-  - [Support This Guide](#support-this-guide)
-
-## Things to Know Before You Begin
-
-* **Machine Learning will impact everyone's life.** It's a new paradigm of computing that will completely change the way consumers expect their devices to work.
-* **Machine learning is a rapidly developing field.** There are many complex fields within machine learning. Take it slow and don't expect to become an expert in it all.
-* **The best way to understand machine learning is to learn from others who understand the topics you want to know more about.** I've created a list of [accounts to follow on X](https://x.com/i/lists/1738669706595258373). I've also aggregated [a list of newsletters, blogs, and channels](#newsletters-blogs-and-channels-for-machine-learning) I find helpful to stay updated.
-
-## Machine Learning Prerequisites
-
-These prerequisites contain a mixture of math and programming concepts. Feel free to skip things you already understand.
-
-| Topic | Source | Author 
-|---|---|---|
-| **Programming** |
-| General Programming  | [CS50](https://cs50.harvard.edu/x/2024/weeks/0/) | Harvard
-| Python | [Intro to Python (For Beginners)](https://cs50.harvard.edu/python/2022/) | Harvard
-|| [Google's Python Class (Refresher)](https://developers.google.com/edu/python) | Google
-| NumPy | [NumPy Tutorial](https://numpy.org/doc/stable/user/quickstart.html) | NumPy Team | Google
-| Pandas | [Pandas Course](https://www.kaggle.com/learn/pandas) | Kaggle
-| **Math** |
-| Algebra | [Algebra Curriculum](https://www.khanacademy.org/math/algebra-home) | Khan Academy
-| Linear Algebra | [Linear Algebra Curriculum](https://www.khanacademy.org/math/linear-algebra) | Khan Academy
-| Probability | [Uncertainty Section of CS50](https://cs50.harvard.edu/ai/2024/weeks/2/) | Harvard
-| Calculus | [Derivatives/Partial Derivatives](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives) | Khan Academy
-|| [Gradients](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/gradient-and-directional-derivatives/v/gradient) | Khan Academy
-|| [Backpropagation Visualization](https://developers-dot-devsite-v2-prod.appspot.com/machine-learning/crash-course/backprop-scroll/) | Google
-| **Tools** |
-| Version Control | [Learn How to Use Git](https://git-scm.com/book/en/v2) | Open Source Git Community
-|| [Github Tutorial](https://docs.github.com/en/get-started) | GitHub
-| Terminal | [Learn Shell](https://www.learnshell.org/#:~:text=instructions.%20Good%20luck!-,Learn%20the%20Basics,-Hello%2C%20World!) | learnshell.org
-
-## Machine Learning Fundamentals
-
-This is the main material. Complete these to understand machine learning fundamentals:
-
-| Topic | Source | Author
-|---|---|---|
-| Intro | [20 Min Introduction to Machine Learning](https://developers.google.com/machine-learning/intro-to-ml) | Google
-| Fundamentals | [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/framing/video-lecture) | Google
-
-## Advanced ML Topics
-
-High-quality resources to explore more advanced topics that are helpful for machine learning:
-
-| Topic | Source | Author | Type
-|---|---|---|---|
-| General Advanced ML Topics | [Machine Learning Q and AI](https://www.amazon.com/Machine-Learning-AI-Essential-Questions/dp/1718503768/ref=sr_1_1?crid=N6POWOVAERX9&dib=eyJ2IjoiMSJ9.4oCd5DaBraiVbzZDag-sX4dJQTIguc2mCbDGm1UCKmsheh9rvOwOn-KIy2upiHKjMFGLiI77lOadkVrSY2gib7Dv5VVJHjkw9-AgmiMoUVwI1s8aUrRs8w7GP4KwiAdgkBYkwfszGqb1wvaqjrZeH9_r3UFIl3HwyNmC7ZCwxQMo1vpjPnWUEo7IC8ryYAAYvPQtgZjDdYGTQ0hUeZPBcB2k6xw1ZLciOjkUpBugNXGOZS1-MUwxxIC70bjzfuNt6O-UuEPpo2AxeE3vRWEhDeaFO4pm7W2JHpw-xmUl5I4.drw9Rw29o6HojRSkner-QP-anoCMTWvtocpOzPXWpa0&dib_tag=se&keywords=machine+learning+q+and+ai&qid=1718026169&sprefix=machine+learning+q+and+a%2Caps%2C117&sr=8-1) | [Sebastian Raschka](https://x.com/rasbt) | Book
-| Large Language Models | [Intro to LLMs](https://www.youtube.com/watch?v=zjkBMFhNj_g) | [Andrej Karpathy](https://x.com/karpathy) | Video
-|| [Developing, Building, and Fine-tuning a LLM](https://www.youtube.com/watch?v=kPGTx4wcm_w) | [Sebastian Raschka](https://x.com/rasbt) | Video
-|| [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch) | [Sebastian Raschka](https://x.com/rasbt) | Book/Repo
-|| [Quantization Section of LLM Course](https://github.com/mlabonne/llm-course?tab=readme-ov-file#quantization) | [Maxime Labonne](https://x.com/maximelabonne)| Course/Repo
-|| [LLM Tools](https://github.com/mlabonne/llm-course?tab=readme-ov-file#tools) | [Maxime Labonne](https://x.com/maximelabonne)| Course/Repo
-|| [LLM Engineering](https://github.com/mlabonne/llm-course?tab=readme-ov-file#-the-llm-engineer) | [Maxime Labonne](https://x.com/maximelabonne)| Course/Repo
-|| [LLM Engineer's Handbook](https://www.amazon.com/dp/1836200072?ref=cm_sw_r_cp_ud_dp_ZFR4XZPT7EY41ZE1M5X9&ref_=cm_sw_r_cp_ud_dp_ZFR4XZPT7EY41ZE1M5X9&social_share=cm_sw_r_cp_ud_dp_ZFR4XZPT7EY41ZE1M5X9) | Paul Iusztin, Maxime Labonne, Alex Vesa | Book
-| Generative AI | [Generative AI For Beginners](https://github.com/microsoft/generative-ai-for-beginners) | [Microsoft](https://www.microsoft.com/en-us/ai) | Course/Repo
-| Natural Language Processing (NLP) | [NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) | [Huggingface](https://huggingface.co/learn) | Course
-| Transformers | [Start of NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) | [Huggingface](https://huggingface.co/learn) | Course
-| Deep Learning | [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/) | [LightningAI](https://lightning.ai) | Course
-| | [Deep Learning Book](https://www.deeplearningbook.org/) | Ian Goodfellow and Yoshua Bengio and Aaron Courville | Book
-| | [The Engineer's Guide To Deep Learning](https://www.interdb.jp/dl/index.html) | [Hironobu Suzuki](https://x.com/suzuki_hironobu) | Book
-| Reinforcement Learning (RL) | [Spinning Up](https://spinningup.openai.com/en/latest/) | [OpenAI](https://openai.com) | Course 
-| Computer Vision | [Computer Vision](https://www.kaggle.com/learn/computer-vision) | [Kaggle](https://kaggle.com/learn) | Course
-| Unsupervised Learning | [Second Half of CS229](CS229/lecture_14.md) | [Andrew Ng/Stanford](https://x.com/AndrewYNg) | Lecture
-| Supervised Learning | [Supervised Machine Learning for Science](https://ml-science-book.com/) | Christoph Molnar & Timo Freiesleben | Book
-| ML for Video Games | [Machine Learning for Games](https://huggingface.co/learn/ml-games-course/unit0/introduction) | [Huggingface](https://huggingface.co/learn) | Course
-| Feature Engineering | [Data Prep](https://developers.google.com/machine-learning/data-prep/?utm_source=mlcc&utm_campaign=mlcc-next-steps&utm_medium=referral&utm_content=data-prep-ss) | [Google](https://developers.google.com/) | Course
-| AI Ethics | [Intro to AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics) | [Kaggle](https://kaggle.com/learn) | Course
-| ML Explainability | [Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability) | [Kaggle](https://kaggle.com/learn) | Course
-| ML Ops | [Made with ML](https://madewithml.com/) | [Goku Mohandas](https://x.com/GokuMohandas) | Course
-| Virtual Classroom for Building LLMs | [ML School](https://www.ml.school/) | [Santiago](https://x.com/svpino) | Interactive Course
-| More Python | [The Python Coding Place](https://thepythoncodingplace.com/) | [Stephen Gruppetta](https://x.com/s_gruppetta_ct) | Website/Book
-| SQL | [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql) | [Kaggle](https://kaggle.com/learn) | Course
-|| [Advanced SQL](https://www.kaggle.com/learn/advanced-sql) | [Kaggle](https://kaggle.com/learn) | Course
-| Studying for ML Interviews | [Study Plan for ML Interviews](https://github.com/khangich/machine-learning-interview) | [Khang Pham](https://twitter.com/KhangAnPham) | Repo
-| Machine Learning Math | [Mathematics of Machine Learning](https://tivadar.gumroad.com/l/mathematics-of-machine-learning?wanted=true&referrer=https%3A%2F%2Ftivadardanka.com%2Fabout-me)| [Tivadar Danka](https://twitter.com/tivadardanka) | Book
-| Machine Learning Efficiency | [EfficientML.ai Lecture](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB)| [MIT](https://hanlab.mit.edu/courses/2023-fall-65940) | Course
-| Knowledge Distillation | [Awesome Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation)| [Dmitry Kozlov](https://github.com/dkozlov) | Repo
-| System Design | System Design Interview [Volume 1](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/ref=sr_1_1?crid=JX9PXJDACSPE&dib=eyJ2IjoiMSJ9.CZwZ7txhICEtME2JuLCqj9Bkde4opffmKt_uE1rHfEIb7jRrLFvGUvKYqbsiljVkHZSb--1a1bUA9raXIXcpqtTPeg4W9Gp5ORApDkf4yGj_PINh3CLAEqn270KmROrZOn7bjeNHjjCWXl0h91GFWnn-TV9Oj8my3oaE2AZqCEnOe5O7khcpiLe3or1cdxkJWdZiAPmcDhBqZkk0Xd-zCbH_BHXcOAuM_GF5HUIF1Ug.dcEt6jC3UduxTXFiZ8zAHcMtoPv4yi1KEuB6fVNmhBA&dib_tag=se&keywords=system+design+alex+xu&qid=1721701289&sprefix=system+design+alex+%2Caps%2C106&sr=8-1) and [Volume 2](https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119/ref=sr_1_2_sspa?crid=JX9PXJDACSPE&dib=eyJ2IjoiMSJ9.CZwZ7txhICEtME2JuLCqj9Bkde4opffmKt_uE1rHfEIb7jRrLFvGUvKYqbsiljVkHZSb--1a1bUA9raXIXcpqtTPeg4W9Gp5ORApDkf4yGj_PINh3CLAEqn270KmROrZOn7bjeNHjjCWXl0h91GFWnn-TV9Oj8my3oaE2AZqCEnOe5O7khcpiLe3or1cdxkJWdZiAPmcDhBqZkk0Xd-zCbH_BHXcOAuM_GF5HUIF1Ug.dcEt6jC3UduxTXFiZ8zAHcMtoPv4yi1KEuB6fVNmhBA&dib_tag=se&keywords=system+design+alex+xu&qid=1721701289&sprefix=system+design+alex+%2Caps%2C106&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)| [Alex Xu](https://twitter.com/alexxubyte) | Book
-
-
-Your support helps keep this resource up-to-date and valuable for the ML community!
-
-## Job Skills and Where to Learn Them
-
-This section contains the technologies and skills I find most often as I go through real machine learning-related job descriptions and the resources for learning each.
-
-| Topic | Source | Author
-|---|---|---|
-| Tensorflow | [TensorFlow 2.0 Complete Course](https://www.youtube.com/watch?v=tPYj3fFJGjk) | [freeCodeCamp](https://twitter.com/freeCodeCamp)
-| PyTorch | [PyTorch for Deep Learning](https://www.youtube.com/watch?v=Z_ikDlimN6A) | [Daniel Bourke](https://twitter.com/mrdbourke)
-| Scikit-learn | [Scikit-learn Tutorials](https://scikit-learn.org/stable/tutorial/index.html) | Scikit-learn Developers
-| Keras | [Keras Tutorial](https://www.tutorialspoint.com/keras/index.htm) | TutorialsPoint
-| NumPy | [NumPy Tutorial](https://numpy.org/doc/stable/user/quickstart.html) | NumPy Team
-| Pandas | [Pandas Course](https://www.kaggle.com/learn/pandas) | [Kaggle](https://kaggle.com/learn)
-| SQL | [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql) | [Kaggle](https://kaggle.com/learn)
-| Python | [Intro to Python (For Beginners)](https://cs50.harvard.edu/python/2022/) | Harvard
-| C++ | [C++ Tutorial for Beginners](https://www.youtube.com/watch?v=vLnPwxZdW4Y) | [freeCodeCamp](https://twitter.com/freeCodeCamp)
-| Rust | [The Rust Programming Language](https://doc.rust-lang.org/book/) | Rust Team
-| JAX | [JAX Quickstart](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html) | [Google](https://developers.google.com/)
-| Linear Algebra | [Linear Algebra Curriculum](https://www.khanacademy.org/math/linear-algebra) | Khan Academy
-| Calculus | [Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) | [3Blue1Brown](https://twitter.com/3blue1brown)
-| Deep Learning | [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/) | [LightningAI](https://lightning.ai)
-| Computer Vision | [Computer Vision](https://www.kaggle.com/learn/computer-vision) | [Kaggle](https://kaggle.com/learn)
-| Natural Language Processing | [NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) | [Huggingface](https://huggingface.co/learn)
-| ONNX | [ONNX Tutorial](https://github.com/onnx/tutorials) | ONNX Team
-| TensorRT | [TensorRT Developer Guide](https://docs.nvidia.com/deeplearning/tensorrt/developer-guide/index.html) | NVIDIA
-| LangChain | [LangChain Crash Course](https://www.youtube.com/watch?v=LbT1yp6quS8) | Patrick Loeber
-| AWS | [AWS Machine Learning](https://aws.amazon.com/training/learn-about/machine-learning/) | Amazon Web Services
-| Azure | [Azure AI Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-fundamentals/) | [Microsoft](https://www.microsoft.com/en-us/ai)
-| GCP | [Machine Learning on Google Cloud](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp) | Google Cloud
-| XGBoost | [XGBoost Documentation](https://xgboost.readthedocs.io/en/latest/) | XGBoost Team
-| Transformers | [Transformers Course](https://huggingface.co/course/chapter1/1) | Hugging Face
-| CUDA | [CUDA C++ Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html) | NVIDIA
-| Java | [Java Programming](https://java-programming.mooc.fi/) | University of Helsinki
-| LLMs | [Building LLMs from the Ground Up](https://www.youtube.com/watch?v=quh7z1q7-uc) | [Sebastian Raschka](https://x.com/rasbt)
-| RAG | [Building RAG-based LLM Applications for Production](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/) | [DeepLearning.AI](https://www.deeplearning.ai/)
-| Kubernetes | [Kubernetes Tutorial for Beginners](https://www.youtube.com/watch?v=X48VuDVv0do) | TechWorld with Nana
-| Docker | [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo) | [freeCodeCamp](https://twitter.com/freeCodeCamp)
-
-## Newsletters, Blogs, and Channels for Machine Learning
-
-All of these are must-subscribes:
-
-| Resource | Author
-|---|---|
-| **Blogs/Newsletters** |
-| [Ahead of AI](https://magazine.sebastianraschka.com/)  | [Sebastian Raschka](https://x.com/rasbt)
-| [AI Made Simple](https://artificialintelligencemadesimple.substack.com/)  | [Devansh](https://x.com/Machine01776819)
-| [Society's Backend](https://societysbackend.com)  | [Logan Thorneloe](https://x.com/loganthorneloe)
-| [The Batch](https://www.deeplearning.ai/the-batch/)  | [Andrew Ng](https://x.com/andrewyng)
-| [Interconnects](https://www.interconnects.ai/)  | [Nathan Lambert](https://x.com/natolambert)
-| [Deep (Learning) Focus](https://cameronrwolfe.substack.com/)  | [Cameron R. Wolfe](https://twitter.com/cwolferesearch)
-| [ML Spring](https://mlspring.beehiiv.com/)  | [Akshay Pachaar](https://twitter.com/akshay_pachaar)
-| [Spatial Intelligence](https://www.spatialintelligence.ai/)  | [Bilawal Sidhu](https://twitter.com/bilawalsidhu)
-| [The AIEdge](https://newsletter.theaiedge.io/)  | [Damien Benveniste](https://x.com/DamiBenveniste)
-| [Google DeepMind Blog](https://deepmind.google/discover/blog/)  | Multiple
-| [OpenAI Blog](https://openai.com/news/)  | Multiple
-| [Meta AI Blog](https://ai.meta.com/blog/?page=1)  | Multiple
-| [QiuByte](https://hesamsheikh.substack.com/) | [Hesam Sheikh](https://x.com/itsHesamSheikh)
-| [NLP Newsletter](https://nlp.elvissaravia.com/) | [Elvis](https://x.com/omarsar0)
-| [The Palindrome](https://thepalindrome.org/) | [Tivadar Danka](https://twitter.com/tivadardanka)
-| **YouTube** |
-| [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy) | [Andrej Karpathy](https://twitter.com/karpathy)
-| [Spatial Intelligence](https://www.youtube.com/@bilawal) | [Bilawal Sidhu](https://twitter.com/bilawalsidhu)
-| [Jay Alammar](https://www.youtube.com/@arp_ai) | [Jay Alammar](https://twitter.com/JayAlammar)
-| [Mervin Praison](https://www.youtube.com/@MervinPraison) | [Mervin Praison](https://x.com/MervinPraison)
-| [Nicholas Renotte](https://www.youtube.com/@NicholasRenotte) | [Nicholas Renotte](https://x.com/nicholasrenotte)
-| [Jeremy Howard](https://www.youtube.com/@howardjeremyp) | [Jeremy Howard](https://x.com/jeremyphoward)
-| [Logan Thorneloe](https://www.youtube.com/@loganthorneloe) | [Logan Thorneloe](https://x.com/loganthorneloe)
-| [3Blue1Brown](https://www.youtube.com/@3blue1brown) | [Grant Sanderson](https://x.com/3blue1brown)
-| [RohanPaulAI](https://www.youtube.com/@RohanPaul-AI) | [Rohan Paul](https://x.com/rohanpaul_ai)
-
-For a list of **almost all** the available ML YouTube Courses check out [this repo by Dair AI](https://github.com/dair-ai/ML-YouTube-Courses).
-
-## Free GPUs for Training
-
-I've aggregated a list of cloud providers that offer a free tier for training machine learning models. Anyone can get started with ML- you don't need a powerful local machine. If anything is incorrect, [reach out to me on X](https://x.com/loganthorneloe) so I can make the fix. If there is a cloud computing platform that I've missed, also let me know.
-
-| Resource | Details
-|---|---|
-| **Top Choices** |
-| [Google Colab](https://colab.google/) | Offers free access to GPUs (usually NVIDIA T4 or P100) and TPUs with limited usage time and resources. Excellent for small projects and experimentation.
-| [Kaggle Notebooks](https://www.kaggle.com/code) | Provides 30 hours/week of GPU usage (NVIDIA Tesla P100 or T4) for free. It's a good option with access to Kaggle's datasets and community.
-| **Other Options** |
-| [Lightning AI](https://lightning.ai/) | Offers one free studio with 22 GPU hours and is pay-as-you-go after that.
-| [Google Cloud Platform](https://cloud.google.com/gpu) | Offers $300 in free credits to new users.
-| [Amazon SageMaker](https://aws.amazon.com/machine-learning/accelerate-machine-learning-P3/) | Provides a free tier with limited access to various machine learning resources.
-| [Paperspace Gradient](https://www.paperspace.com/notebooks) | Offers a free community tier with access to limited GPU resources for experimentation and learning.
-
-## Support This Guide
-
-Don't forget to star this repo and [follow me on X](https://x.com/loganthorneloe) to support this guide. **Please support the authors of these resources by following them at the links I included.** You can also find them in my [ML on X](https://x.com/i/lists/1738669706595258373) list.
-
-If any information is missing, you are the author of a resource and you'd like it removed, or any other general feedback [send me a message](https://x.com/loganthorneloe) to let me know.
+**If any information is missing, you are the author of a resource and you'd like it removed, or any other general feedback [send me a message](https://x.com/loganthorneloe) to let me know.**
