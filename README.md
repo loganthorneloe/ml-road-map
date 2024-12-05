@@ -1,8 +1,8 @@
 ![ml road map](assets/road_map_turbo.jpeg)
 
-<p align="center">🌟<strong>This guide is free!</strong> Support it (and me!) for free:🌟
+<p align="center">🌟<strong>This guide is free!</strong> Support it (and me!) for free:🌟</p>
 
-<div style="display: flex; gap: 10px; margin-bottom: 20px; justify-content: center; align: center;">
+<p align="center">
   <a href="https://github.com/loganthorneloe/ml-road-map">
     <img src="https://img.shields.io/github/stars/loganthorneloe/ml-road-map?style=social" alt="Star on GitHub">
   </a>
@@ -15,7 +15,7 @@
   <a href="https://youtube.com/@loganthorneloe">
     <img src="https://img.shields.io/youtube/channel/subscribers/UC3H55I0SqNKQgJU77LsFiBw?style=social&logo=youtube" alt="Subscribe on YouTube">
   </a>
-</div>
+</p>
 
 Welcome to the **Machine Learning Road Map**: A succinct guide to learning ML fundamentals for free!
 
