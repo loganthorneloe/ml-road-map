@@ -106,7 +106,7 @@ Let's begin your ML journey! 🚀
 **Core Machine Learning** 
 - 📚 [20 Min Introduction to Machine Learning](https://developers.google.com/machine-learning/intro-to-ml) by [Google](https://developers.google.com/)
   > Perfect starting point for ML concepts
-- 📚 [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/framing/video-lecture) by [Google](https://developers.google.com/)
+- 📚 [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) by [Google](https://developers.google.com/)
   > Comprehensive foundation in ML fundamentals
 
 <br></br>
